@@ -1,0 +1,1511 @@
+2023-06-05 08:12:40,611:INFO:97110200
+2023-06-05 08:12:40,611:INFO:D
+2023-06-05 08:12:40,839:INFO:getDataUldegdel
+2023-06-05 08:12:40,841:INFO:request_string
+2023-06-05 08:12:40,841:INFO:b'0001CHECKDATA#97697110200'
+2023-06-05 08:12:40,880:INFO:-496148613|2023-07-01 00:00:00
+2023-06-05 08:12:40,880:INFO:uldegdel
+2023-06-05 08:12:40,880:INFO:['-496148613', '2023-07-01 00:00:00']
+2023-06-05 08:12:40,882:INFO:RESULT
+2023-06-05 08:12:40,882:INFO:Ta 473.16MB nemelt data bagc ashiglasan baina. Tany nemelt data bagcyn xugacaa 2023.06.30 duusna. Gmobile
+2023-06-05 08:14:51,625:INFO:93199991
+2023-06-05 08:14:51,625:INFO:D
+2023-06-05 08:14:51,853:INFO:getDataUldegdel
+2023-06-05 08:14:51,855:INFO:request_string
+2023-06-05 08:14:51,855:INFO:b'0001CHECKDATA#97693199991'
+2023-06-05 08:14:51,911:INFO:Data ashiglaagui baina.
+2023-06-05 08:14:51,913:INFO:RESULT
+2023-06-05 08:14:51,913:INFO:Data ashiglaagui baina.
+2023-06-05 08:21:48,347:INFO:98026767
+2023-06-05 08:21:48,347:INFO:5gb
+2023-06-05 08:21:48,574:INFO:infoUser
+2023-06-05 08:21:48,578:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 08:21:54,922:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 511
+2023-06-05 08:21:54,923:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98026767', 'PROD_STATE': 'A', 'ACCT_ID': '3319604', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '17-JUN-20', 'EXP_DATE': None, 'VALUE_MARK': '20000 D'}, {'ACC_NBR': '98026767', 'PROD_STATE': 'A', 'ACCT_ID': '3319604', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4323', 'PRICE_PLAN_CODE': 'enjoy2gb', 'PRICE_PLAN_NAME': 'Post Enjoy Data 5GB_20000C 20000D_with PCRF', 'EFF_DATE': '17-JUN-20', 'EXP_DATE': None, 'VALUE_MARK': '20000 D'}]}
+2023-06-05 08:21:54,925:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 08:21:54,951:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98026767&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 08:21:54,964:INFO:nemeltData
+2023-06-05 08:21:54,966:INFO:request_string
+2023-06-05 08:21:54,966:INFO:b'0001POSTADDITIONALDATA#97698026767#enjoy2gb#1#enjoy_nemelt_5gb'
+2023-06-05 08:21:55,311:INFO:98700463
+2023-06-05 08:21:55,312:INFO:Beleg
+2023-06-05 08:21:55,318:INFO:userMessage.sms_response: Uuchlaarai, tany dugaar burtgelgui baina. Dugaaraa burtguulne uu.
+2023-06-05 08:22:22,201:INFO:98700463
+2023-06-05 08:22:22,202:INFO:98700463
+2023-06-05 08:22:22,207:INFO:userMessage.sms_response: Uuchlaarai, tany dugaar burtgelgui baina. Dugaaraa burtguulne uu.
+2023-06-05 08:22:27,327:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 08:23:17,371:INFO:checkUser
+2023-06-05 08:23:17,373:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 08:23:18,164:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 08:23:18,165:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 08:23:18,166:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 08:23:18,190:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98026767&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 08:23:18,193:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 08:23:18,213:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98026767&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 08:23:18,216:INFO:RESULT
+2023-06-05 08:23:18,216:INFO:
+2023-06-05 08:24:09,667:INFO:98991060
+2023-06-05 08:24:09,668:INFO:D
+2023-06-05 08:24:09,892:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 08:24:09,916:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98991060&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 08:24:09,919:INFO:RESULT
+2023-06-05 08:24:09,919:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 08:25:06,149:INFO:93023338
+2023-06-05 08:25:06,149:INFO:D
+2023-06-05 08:25:06,373:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 08:25:06,396:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93023338&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 08:25:06,399:INFO:RESULT
+2023-06-05 08:25:06,399:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 08:35:53,735:INFO:93023338
+2023-06-05 08:35:53,735:INFO:10gb
+2023-06-05 08:35:53,960:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 08:35:53,989:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93023338&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 08:35:53,992:INFO:RESULT
+2023-06-05 08:35:53,992:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 08:47:48,962:INFO:98890606
+2023-06-05 08:47:48,962:INFO:5gb
+2023-06-05 08:47:49,190:INFO:infoUser
+2023-06-05 08:47:49,191:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 08:47:52,783:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 505
+2023-06-05 08:47:52,784:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98890606', 'PROD_STATE': 'A', 'ACCT_ID': '3283282', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '07-MAY-20', 'EXP_DATE': None, 'VALUE_MARK': '30000 C'}, {'ACC_NBR': '98890606', 'PROD_STATE': 'A', 'ACCT_ID': '3283282', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4326', 'PRICE_PLAN_CODE': 'enjoy5gb', 'PRICE_PLAN_NAME': 'Post Enjoy Data 10GB_30000C_with PCRF', 'EFF_DATE': '01-APR-23', 'EXP_DATE': None, 'VALUE_MARK': '30000 C'}]}
+2023-06-05 08:47:52,785:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 08:47:52,814:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98890606&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 08:47:52,826:INFO:nemeltData
+2023-06-05 08:47:52,831:INFO:request_string
+2023-06-05 08:47:52,831:INFO:b'0001POSTADDITIONALDATA#97698890606#enjoy5gb#1#enjoy_nemelt_5gb'
+2023-06-05 08:48:24,346:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 08:49:14,350:INFO:checkUser
+2023-06-05 08:49:14,352:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 08:49:15,094:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 08:49:15,094:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 08:49:15,096:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 08:49:15,121:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98890606&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 08:49:15,123:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 08:49:15,148:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98890606&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 08:49:15,151:INFO:RESULT
+2023-06-05 08:49:15,151:INFO:
+2023-06-05 09:25:11,804:INFO:98092113
+2023-06-05 09:25:11,805:INFO:5gb
+2023-06-05 09:25:12,035:INFO:infoUser
+2023-06-05 09:25:12,036:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 09:25:15,651:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 505
+2023-06-05 09:25:15,652:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98092113', 'PROD_STATE': 'A', 'ACCT_ID': '3293127', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4326', 'PRICE_PLAN_CODE': 'enjoy5gb', 'PRICE_PLAN_NAME': 'Post Enjoy Data 10GB_30000C_with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '30000 C'}, {'ACC_NBR': '98092113', 'PROD_STATE': 'A', 'ACCT_ID': '3293127', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '21-MAY-20', 'EXP_DATE': None, 'VALUE_MARK': '30000 C'}]}
+2023-06-05 09:25:15,653:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 09:25:15,680:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98092113&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 09:25:15,692:INFO:nemeltData
+2023-06-05 09:25:15,694:INFO:request_string
+2023-06-05 09:25:15,694:INFO:b'0001POSTADDITIONALDATA#97698092113#enjoy5gb#1#enjoy_nemelt_5gb'
+2023-06-05 09:25:47,027:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 09:26:37,072:INFO:checkUser
+2023-06-05 09:26:37,074:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 09:26:37,830:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 09:26:37,830:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 09:26:37,832:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 09:26:37,859:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98092113&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 09:26:37,861:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 09:26:37,883:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98092113&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 09:26:37,886:INFO:RESULT
+2023-06-05 09:26:37,886:INFO:
+2023-06-05 09:29:33,299:INFO:98015467
+2023-06-05 09:29:33,299:INFO:D
+2023-06-05 09:29:33,525:INFO:getDataUldegdel
+2023-06-05 09:29:33,529:INFO:request_string
+2023-06-05 09:29:33,529:INFO:b'0001CHECKDATA#97698015467'
+2023-06-05 09:29:33,589:INFO:Data ashiglaagui baina.
+2023-06-05 09:29:33,590:INFO:RESULT
+2023-06-05 09:29:33,590:INFO:Data ashiglaagui baina.
+2023-06-05 09:34:15,946:INFO:98107599
+2023-06-05 09:34:15,946:INFO:D
+2023-06-05 09:34:16,171:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 09:34:16,197:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98107599&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 09:34:16,200:INFO:RESULT
+2023-06-05 09:34:16,200:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 10:01:19,182:INFO:98109890
+2023-06-05 10:01:19,182:INFO:5GB
+2023-06-05 10:01:19,411:INFO:infoUser
+2023-06-05 10:01:19,413:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 10:01:24,293:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 513
+2023-06-05 10:01:24,294:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98109890', 'PROD_STATE': 'A', 'ACCT_ID': '3623424', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4323', 'PRICE_PLAN_CODE': 'enjoy2gb', 'PRICE_PLAN_NAME': 'Post Enjoy Data 5GB_20000C 20000D_with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '20000 C'}, {'ACC_NBR': '98109890', 'PROD_STATE': 'A', 'ACCT_ID': '3623424', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4328', 'PRICE_PLAN_CODE': '4328', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS B', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '20000 C'}]}
+2023-06-05 10:01:24,295:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 10:01:24,327:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98109890&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 10:01:24,339:INFO:nemeltData
+2023-06-05 10:01:24,341:INFO:request_string
+2023-06-05 10:01:24,341:INFO:b'0001POSTADDITIONALDATA#97698109890#enjoy2gb#1#enjoy_nemelt_5gb'
+2023-06-05 10:01:55,681:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 10:02:45,731:INFO:checkUser
+2023-06-05 10:02:45,733:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 10:02:46,479:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 10:02:46,480:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 10:02:46,482:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 10:02:46,507:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98109890&text=Tany%20dugaart%205GB%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 10:02:46,510:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 10:02:46,540:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98109890&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 10:02:46,543:INFO:RESULT
+2023-06-05 10:02:46,543:INFO:
+2023-06-05 10:04:20,678:INFO:98090230
+2023-06-05 10:04:20,678:INFO:5gb
+2023-06-05 10:04:20,904:INFO:infoUser
+2023-06-05 10:04:20,906:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 10:04:24,512:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-05 10:04:24,513:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98090230', 'PROD_STATE': 'A', 'ACCT_ID': '3620668', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '98090230', 'PROD_STATE': 'A', 'ACCT_ID': '3620668', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '18-JUL-22', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-05 10:04:24,514:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 10:04:24,540:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98090230&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 10:04:24,549:INFO:nemeltData
+2023-06-05 10:04:24,550:INFO:request_string
+2023-06-05 10:04:24,551:INFO:b'0001POSTADDITIONALDATA#97698090230#enjoy_nemelt_5gb#1#enjoy_nemelt_5gb'
+2023-06-05 10:04:55,474:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 10:05:45,521:INFO:checkUser
+2023-06-05 10:05:45,522:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 10:05:46,270:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 10:05:46,270:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 10:05:46,272:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 10:05:46,300:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98090230&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 10:05:46,302:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 10:05:46,327:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98090230&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 10:05:46,330:INFO:RESULT
+2023-06-05 10:05:46,330:INFO:
+2023-06-05 10:25:53,978:INFO:toOdko
+2023-06-05 10:25:53,978:INFO:\u041a\u041373031428
+2023-06-05 10:25:53,979:INFO:checkUser
+2023-06-05 10:25:53,980:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 10:25:54,769:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 10:25:54,770:INFO:[]
+2023-06-05 10:25:54,780:INFO:nad deer burtgeltei
+2023-06-05 10:31:18,095:INFO:98005900
+2023-06-05 10:31:18,096:INFO:5GB
+2023-06-05 10:31:18,318:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 10:31:18,339:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98005900&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 10:31:18,342:INFO:RESULT
+2023-06-05 10:31:18,342:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 10:38:34,721:INFO:toOdko
+2023-06-05 10:38:34,722:INFO:\u0417\u041460022311
+2023-06-05 10:38:34,722:INFO:checkUser
+2023-06-05 10:38:34,723:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 10:38:35,513:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 233
+2023-06-05 10:38:35,514:INFO:[{'CERT_NBR': '\u0437\u043460022311', 'ACC_NBR': '98150184', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'N'}, {'CERT_NBR': '\u0417\u041460022311', 'ACC_NBR': '98805388', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'N'}]
+2023-06-05 10:38:35,514:INFO:billing deer burtgeltei
+2023-06-05 10:46:21,346:INFO:97104499
+2023-06-05 10:46:21,347:INFO:5GB
+2023-06-05 10:46:21,570:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 10:46:21,593:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=97104499&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 10:46:21,596:INFO:RESULT
+2023-06-05 10:46:21,596:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 10:53:45,908:INFO:98107599
+2023-06-05 10:53:45,908:INFO:D
+2023-06-05 10:53:46,132:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 10:53:46,165:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98107599&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 10:53:46,167:INFO:RESULT
+2023-06-05 10:53:46,167:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 10:55:10,148:INFO:toOdko
+2023-06-05 10:55:10,148:INFO:\u0418\u041793091110
+2023-06-05 10:55:10,148:INFO:checkUser
+2023-06-05 10:55:10,150:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 10:55:10,946:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 124
+2023-06-05 10:55:10,946:INFO:[{'CERT_NBR': '\u0418\u041793091110', 'ACC_NBR': '98620911', 'PROD_STATE': 'E', 'PROD_STATE_NAME': 'Two-Way Block', 'POSTPAID': 'N'}]
+2023-06-05 10:55:10,947:INFO:billing deer burtgeltei
+2023-06-05 11:02:53,355:INFO:toOdko
+2023-06-05 11:02:53,355:INFO:\u0424\u041c75121804
+2023-06-05 11:02:53,355:INFO:checkUser
+2023-06-05 11:02:53,357:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 11:02:54,168:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 11:02:54,169:INFO:[]
+2023-06-05 11:02:54,179:INFO:nad deer burtgeltei
+2023-06-05 11:04:07,289:INFO:toOdko
+2023-06-05 11:04:07,290:INFO:\u0424\u041c75121804
+2023-06-05 11:04:07,290:INFO:checkUser
+2023-06-05 11:04:07,291:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 11:04:08,081:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 11:04:08,082:INFO:[]
+2023-06-05 11:04:08,091:INFO:nad deer burtgeltei
+2023-06-05 11:04:37,456:INFO:98011110
+2023-06-05 11:04:37,456:INFO:5GB
+2023-06-05 11:04:37,677:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:04:37,703:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98011110&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 11:04:37,706:INFO:RESULT
+2023-06-05 11:04:37,706:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 11:07:55,206:INFO:98988688
+2023-06-05 11:07:55,207:INFO:10gb
+2023-06-05 11:07:55,435:INFO:infoUser
+2023-06-05 11:07:55,436:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 11:07:59,056:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-05 11:07:59,057:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98988688', 'PROD_STATE': 'A', 'ACCT_ID': '3274590', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '98988688', 'PROD_STATE': 'A', 'ACCT_ID': '3274590', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '29-APR-20', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-05 11:07:59,058:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:07:59,078:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98988688&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 11:07:59,087:INFO:nemeltData
+2023-06-05 11:07:59,089:INFO:request_string
+2023-06-05 11:07:59,089:INFO:b'0001POSTADDITIONALDATA#97698988688#ENJNEM10GB#1#ENJNEM10GB'
+2023-06-05 11:08:29,920:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 11:08:55,770:INFO:93331151
+2023-06-05 11:08:55,770:INFO:D
+2023-06-05 11:08:55,991:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:08:56,014:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93331151&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 11:08:56,016:INFO:RESULT
+2023-06-05 11:08:56,016:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 11:08:59,852:INFO:93331151
+2023-06-05 11:08:59,852:INFO:5gb
+2023-06-05 11:09:00,074:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:09:00,101:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93331151&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 11:09:00,103:INFO:RESULT
+2023-06-05 11:09:00,103:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 11:09:19,942:INFO:checkUser
+2023-06-05 11:09:19,944:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 11:09:20,689:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 11:09:20,690:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 11:09:20,692:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:09:20,715:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98988688&text=Tany%20dugaart%2010gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2018,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 11:09:20,718:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:09:20,735:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98988688&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 11:09:20,738:INFO:RESULT
+2023-06-05 11:09:20,738:INFO:
+2023-06-05 11:10:52,461:INFO:98107599
+2023-06-05 11:10:52,461:INFO:Off
+2023-06-05 11:10:52,683:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:10:53,326:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98107599&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 11:10:53,329:INFO:RESULT
+2023-06-05 11:10:53,329:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 11:11:25,633:INFO:98107599
+2023-06-05 11:11:25,633:INFO:On
+2023-06-05 11:11:25,855:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:11:25,882:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98107599&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 11:11:25,885:INFO:RESULT
+2023-06-05 11:11:25,885:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 11:15:36,753:INFO:98008313
+2023-06-05 11:15:36,753:INFO:5gn
+2023-06-05 11:15:36,982:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:15:37,007:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98008313&text=Ta%20nemelt%20data%20bagcyn%20talaar%20delgerengui%20medeelel%20avax%20bol%20'help'%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 11:15:37,068:INFO:RESULT
+2023-06-05 11:15:37,068:INFO:Ta nemelt data bagcyn talaar delgerengui medeelel avax bol 'help' utgyg 510 dugaart ilgeene uu. Gmobile
+2023-06-05 11:15:41,258:INFO:98008313
+2023-06-05 11:15:41,258:INFO:5gb
+2023-06-05 11:15:41,483:INFO:infoUser
+2023-06-05 11:15:41,484:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 11:15:48,919:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-05 11:15:48,920:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98008313', 'PROD_STATE': 'A', 'ACCT_ID': '3561945', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-APR-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '98008313', 'PROD_STATE': 'A', 'ACCT_ID': '3561945', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '23-JAN-22', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-05 11:15:48,921:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:15:48,945:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98008313&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 11:15:48,954:INFO:nemeltData
+2023-06-05 11:15:48,956:INFO:request_string
+2023-06-05 11:15:48,956:INFO:b'0001POSTADDITIONALDATA#97698008313#enjoy_nemelt_5gb#1#enjoy_nemelt_5gb'
+2023-06-05 11:16:19,851:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 11:17:09,901:INFO:checkUser
+2023-06-05 11:17:09,903:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 11:17:10,646:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 11:17:10,646:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 11:17:10,648:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:17:10,673:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98008313&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 11:17:10,676:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:17:10,698:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98008313&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 11:17:10,702:INFO:RESULT
+2023-06-05 11:17:10,702:INFO:
+2023-06-05 11:28:58,036:INFO:98015467
+2023-06-05 11:28:58,036:INFO:D
+2023-06-05 11:28:58,261:INFO:getDataUldegdel
+2023-06-05 11:28:58,263:INFO:request_string
+2023-06-05 11:28:58,263:INFO:b'0001CHECKDATA#97698015467'
+2023-06-05 11:28:58,302:INFO:Data ashiglaagui baina.
+2023-06-05 11:28:58,304:INFO:RESULT
+2023-06-05 11:28:58,304:INFO:Data ashiglaagui baina.
+2023-06-05 11:36:26,882:INFO:93011213
+2023-06-05 11:36:26,882:INFO:5gb
+2023-06-05 11:36:27,110:INFO:infoUser
+2023-06-05 11:36:27,111:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 11:36:30,705:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 503
+2023-06-05 11:36:30,706:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '93011213', 'PROD_STATE': 'A', 'ACCT_ID': '3458518', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '93011213', 'PROD_STATE': 'A', 'ACCT_ID': '3458518', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4328', 'PRICE_PLAN_CODE': '4328', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS B', 'EFF_DATE': '01-MAY-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-05 11:36:30,707:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:36:30,744:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93011213&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 11:36:30,754:INFO:nemeltData
+2023-06-05 11:36:30,757:INFO:request_string
+2023-06-05 11:36:30,757:INFO:b'0001POSTADDITIONALDATA#97693011213#enjoy_nemelt_5gb#1#enjoy_nemelt_5gb'
+2023-06-05 11:37:01,659:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 11:37:51,710:INFO:checkUser
+2023-06-05 11:37:51,711:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 11:37:52,462:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 11:37:52,463:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 11:37:52,465:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:37:52,495:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93011213&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 11:37:52,497:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:37:52,521:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93011213&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 11:37:52,524:INFO:RESULT
+2023-06-05 11:37:52,524:INFO:
+2023-06-05 11:41:16,345:INFO:93011213
+2023-06-05 11:41:16,346:INFO:D
+2023-06-05 11:41:16,580:INFO:getDataUldegdel
+2023-06-05 11:41:16,582:INFO:request_string
+2023-06-05 11:41:16,582:INFO:b'0001CHECKDATA#97693011213'
+2023-06-05 11:41:16,623:INFO:Data ashiglaagui baina.
+2023-06-05 11:41:16,625:INFO:RESULT
+2023-06-05 11:41:16,625:INFO:Data ashiglaagui baina.
+2023-06-05 11:42:59,033:INFO:98040018
+2023-06-05 11:42:59,033:INFO:D
+2023-06-05 11:42:59,258:INFO:getDataUldegdel
+2023-06-05 11:42:59,260:INFO:request_string
+2023-06-05 11:42:59,260:INFO:b'0001CHECKDATA#97698040018'
+2023-06-05 11:42:59,296:INFO:Data ashiglaagui baina.
+2023-06-05 11:42:59,298:INFO:RESULT
+2023-06-05 11:42:59,298:INFO:Data ashiglaagui baina.
+2023-06-05 11:43:11,793:INFO:98040018
+2023-06-05 11:43:11,793:INFO:5gb
+2023-06-05 11:43:12,019:INFO:infoUser
+2023-06-05 11:43:12,020:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 11:43:15,613:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-05 11:43:15,613:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98040018', 'PROD_STATE': 'A', 'ACCT_ID': '3575013', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '98040018', 'PROD_STATE': 'A', 'ACCT_ID': '3575013', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '01-MAR-22', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-05 11:43:15,615:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:43:15,650:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98040018&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 11:43:15,659:INFO:nemeltData
+2023-06-05 11:43:15,661:INFO:request_string
+2023-06-05 11:43:15,661:INFO:b'0001POSTADDITIONALDATA#97698040018#enjoy_nemelt_5gb#1#enjoy_nemelt_5gb'
+2023-06-05 11:43:46,548:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 11:44:36,599:INFO:checkUser
+2023-06-05 11:44:36,600:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 11:44:37,344:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 11:44:37,344:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 11:44:37,346:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:44:37,367:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98040018&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 11:44:37,370:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 11:44:37,392:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98040018&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 11:44:37,395:INFO:RESULT
+2023-06-05 11:44:37,395:INFO:
+2023-06-05 11:47:22,183:INFO:toOdko
+2023-06-05 11:47:22,184:INFO:\u0412\u041266062608
+2023-06-05 11:47:22,184:INFO:checkUser
+2023-06-05 11:47:22,186:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 11:47:22,972:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 11:47:22,973:INFO:[]
+2023-06-05 11:47:22,985:INFO:nad deer burtgeltei
+2023-06-05 11:48:20,279:INFO:toOdko
+2023-06-05 11:48:20,280:INFO:\u0420\u041185090319
+2023-06-05 11:48:20,280:INFO:checkUser
+2023-06-05 11:48:20,281:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 11:48:21,103:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 349
+2023-06-05 11:48:21,104:INFO:[{'CERT_NBR': '\u0420\u041185090319', 'ACC_NBR': '97195842', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'N'}, {'CERT_NBR': '\u0420\u041185090319', 'ACC_NBR': '97175842', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'N'}, {'CERT_NBR': '\u0420\u041185090319', 'ACC_NBR': '98385842', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'N'}]
+2023-06-05 11:48:21,104:INFO:billing deer burtgeltei
+2023-06-05 11:51:39,644:INFO:toOdko
+2023-06-05 11:51:39,645:INFO:\u0420\u041185090319
+2023-06-05 11:51:39,645:INFO:checkUser
+2023-06-05 11:51:39,646:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 11:51:40,431:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 349
+2023-06-05 11:51:40,432:INFO:[{'CERT_NBR': '\u0420\u041185090319', 'ACC_NBR': '97195842', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'N'}, {'CERT_NBR': '\u0420\u041185090319', 'ACC_NBR': '97175842', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'N'}, {'CERT_NBR': '\u0420\u041185090319', 'ACC_NBR': '98385842', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'N'}]
+2023-06-05 11:51:40,432:INFO:billing deer burtgeltei
+2023-06-05 11:55:08,326:INFO:83000906
+2023-06-05 11:55:08,326:INFO:D
+2023-06-05 11:55:08,555:INFO:getDataUldegdel
+2023-06-05 11:55:08,556:INFO:request_string
+2023-06-05 11:55:08,557:INFO:b'0001CHECKDATA#97683000906'
+2023-06-05 11:55:08,600:INFO:Data ashiglaagui baina.
+2023-06-05 11:55:08,602:INFO:RESULT
+2023-06-05 11:55:08,602:INFO:Data ashiglaagui baina.
+2023-06-05 11:56:27,102:INFO:toOdko
+2023-06-05 11:56:27,102:INFO:\u0420\u041a44030304
+2023-06-05 11:56:27,102:INFO:checkUser
+2023-06-05 11:56:27,104:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 11:56:27,896:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 11:56:27,897:INFO:[]
+2023-06-05 11:56:27,906:INFO:nad deer burtgeltei
+2023-06-05 12:06:03,825:INFO:toOdko
+2023-06-05 12:06:03,825:INFO:\u041c\u041b99060815
+2023-06-05 12:06:03,825:INFO:checkUser
+2023-06-05 12:06:03,827:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 12:06:06,156:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 12:06:06,157:INFO:[{'CERT_NBR': '\u043c\u043b99060815', 'ACC_NBR': '98101408', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'Y'}]
+2023-06-05 12:06:06,157:INFO:billing deer burtgeltei
+2023-06-05 12:20:57,658:INFO:93040777
+2023-06-05 12:20:57,658:INFO:5gb
+2023-06-05 12:20:57,883:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 12:20:57,908:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93040777&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 12:20:57,911:INFO:RESULT
+2023-06-05 12:20:57,911:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 12:25:49,655:INFO:98001105
+2023-06-05 12:25:49,655:INFO:D
+2023-06-05 12:25:49,885:INFO:getDataUldegdel
+2023-06-05 12:25:49,887:INFO:request_string
+2023-06-05 12:25:49,887:INFO:b'0001CHECKDATA#97698001105'
+2023-06-05 12:25:49,920:INFO:Data ashiglaagui baina.
+2023-06-05 12:25:49,922:INFO:RESULT
+2023-06-05 12:25:49,922:INFO:Data ashiglaagui baina.
+2023-06-05 12:35:41,801:INFO:toOdko
+2023-06-05 12:35:41,801:INFO:\u0420\u041497101428
+2023-06-05 12:35:41,801:INFO:checkUser
+2023-06-05 12:35:41,803:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 12:35:42,590:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 12:35:42,591:INFO:[]
+2023-06-05 12:35:42,600:INFO:nad deer burtgeltei
+2023-06-05 12:38:33,419:INFO:93230685
+2023-06-05 12:38:33,419:INFO:Beleg
+2023-06-05 12:38:33,425:INFO:userMessage.sms_response: Uuchlaarai, tany dugaar burtgelgui baina. Dugaaraa burtguulne uu.
+2023-06-05 12:44:14,855:INFO:toOdko
+2023-06-05 12:44:14,855:INFO:\u041c\u041b99060815
+2023-06-05 12:44:14,856:INFO:checkUser
+2023-06-05 12:44:14,857:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 12:44:15,657:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 12:44:15,657:INFO:[{'CERT_NBR': '\u043c\u043b99060815', 'ACC_NBR': '98101408', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'Y'}]
+2023-06-05 12:44:15,657:INFO:billing deer burtgeltei
+2023-06-05 12:44:30,939:INFO:98008009
+2023-06-05 12:44:30,940:INFO:help
+2023-06-05 12:44:31,164:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 12:44:31,193:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98008009&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 12:44:31,195:INFO:RESULT
+2023-06-05 12:44:31,195:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 12:46:23,437:INFO:toOdko
+2023-06-05 12:46:23,437:INFO:\u041c\u041b99060815
+2023-06-05 12:46:23,437:INFO:checkUser
+2023-06-05 12:46:23,439:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 12:46:24,223:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 12:46:24,224:INFO:[{'CERT_NBR': '\u043c\u043b99060815', 'ACC_NBR': '98101408', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'Y'}]
+2023-06-05 12:46:24,224:INFO:billing deer burtgeltei
+2023-06-05 12:56:29,818:INFO:98119985
+2023-06-05 12:56:29,819:INFO:2Gb
+2023-06-05 12:56:30,046:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 12:56:30,067:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98119985&text=Ta%20nemelt%20data%20bagcyn%20talaar%20delgerengui%20medeelel%20avax%20bol%20'help'%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 12:56:30,070:INFO:RESULT
+2023-06-05 12:56:30,070:INFO:Ta nemelt data bagcyn talaar delgerengui medeelel avax bol 'help' utgyg 510 dugaart ilgeene uu. Gmobile
+2023-06-05 12:56:48,383:INFO:98119985
+2023-06-05 12:56:48,383:INFO:Help
+2023-06-05 12:56:48,611:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 12:56:48,630:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98119985&text=Ta%20sar%20duustal%205GB%20xurtel%20xurdny%20xyazgaargui%20ashiglax%20nemelt%20data%20bagc%20idevxjuulex%20bol%205GB%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Sariin%20suuri%20xuraamj%2010000T HTTP/1.1" 200 24
+2023-06-05 12:56:48,631:INFO:res1
+2023-06-05 12:56:48,632:INFO:b'0: Accepted for delivery'
+2023-06-05 12:56:48,633:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 12:56:48,656:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98119985&text=Ta%20sar%20duustal%2010GB%20xurtel%20xurdny%20xyazgaargui%20ashiglax%20nemelt%20data%20bagc%20idevxjuulex%20bol%2010GB%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Sariin%20suuri%20xuraamj%2018000T HTTP/1.1" 200 24
+2023-06-05 12:56:48,657:INFO:res2
+2023-06-05 12:56:48,657:INFO:b'0: Accepted for delivery'
+2023-06-05 12:56:48,659:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 12:56:48,680:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98119985&text=Tany%20idevxjuulsen%20nemelt%20data%20bagc%20duussan%20toxioldold%20tuxain%20sar%20duustal%201Mbps%20xurdaar%20interneted%20xolbogdono.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 12:56:48,681:INFO:res3
+2023-06-05 12:56:48,681:INFO:b'0: Accepted for delivery'
+2023-06-05 12:56:48,682:INFO:RESULT
+2023-06-05 12:56:48,683:INFO:
+2023-06-05 12:57:08,750:INFO:toOdko
+2023-06-05 12:57:08,750:INFO:\u041c\u041b99060815
+2023-06-05 12:57:08,751:INFO:checkUser
+2023-06-05 12:57:08,752:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 12:57:09,548:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 12:57:09,548:INFO:[{'CERT_NBR': '\u043c\u043b99060815', 'ACC_NBR': '98101408', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'Y'}]
+2023-06-05 12:57:09,548:INFO:billing deer burtgeltei
+2023-06-05 12:57:14,064:INFO:98119985
+2023-06-05 12:57:14,065:INFO:Gb
+2023-06-05 12:57:14,295:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 12:57:14,319:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98119985&text=Ta%20nemelt%20data%20bagcyn%20talaar%20delgerengui%20medeelel%20avax%20bol%20'help'%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 12:57:14,322:INFO:RESULT
+2023-06-05 12:57:14,322:INFO:Ta nemelt data bagcyn talaar delgerengui medeelel avax bol 'help' utgyg 510 dugaart ilgeene uu. Gmobile
+2023-06-05 12:57:21,691:INFO:98119985
+2023-06-05 12:57:21,691:INFO:Help
+2023-06-05 12:57:21,917:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 12:57:21,940:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98119985&text=Ta%20sar%20duustal%205GB%20xurtel%20xurdny%20xyazgaargui%20ashiglax%20nemelt%20data%20bagc%20idevxjuulex%20bol%205GB%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Sariin%20suuri%20xuraamj%2010000T HTTP/1.1" 200 24
+2023-06-05 12:57:21,941:INFO:res1
+2023-06-05 12:57:21,941:INFO:b'0: Accepted for delivery'
+2023-06-05 12:57:21,942:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 12:57:21,964:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98119985&text=Ta%20sar%20duustal%2010GB%20xurtel%20xurdny%20xyazgaargui%20ashiglax%20nemelt%20data%20bagc%20idevxjuulex%20bol%2010GB%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Sariin%20suuri%20xuraamj%2018000T HTTP/1.1" 200 24
+2023-06-05 12:57:21,965:INFO:res2
+2023-06-05 12:57:21,965:INFO:b'0: Accepted for delivery'
+2023-06-05 12:57:21,967:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 12:57:21,988:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98119985&text=Tany%20idevxjuulsen%20nemelt%20data%20bagc%20duussan%20toxioldold%20tuxain%20sar%20duustal%201Mbps%20xurdaar%20interneted%20xolbogdono.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 12:57:21,989:INFO:res3
+2023-06-05 12:57:21,989:INFO:b'0: Accepted for delivery'
+2023-06-05 12:57:21,991:INFO:RESULT
+2023-06-05 12:57:21,991:INFO:
+2023-06-05 12:57:34,752:INFO:98119985
+2023-06-05 12:57:34,753:INFO:5GB
+2023-06-05 12:57:34,978:INFO:infoUser
+2023-06-05 12:57:34,979:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 12:57:38,586:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-05 12:57:38,586:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98119985', 'PROD_STATE': 'A', 'ACCT_ID': '3485056', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '01-NOV-21', 'EXP_DATE': None, 'VALUE_MARK': '40000'}, {'ACC_NBR': '98119985', 'PROD_STATE': 'A', 'ACCT_ID': '3485056', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4302', 'PRICE_PLAN_CODE': 'enjoy25gb', 'PRICE_PLAN_NAME': 'Post Enjoy Data 30GB_40000_with PCRF', 'EFF_DATE': '01-NOV-21', 'EXP_DATE': None, 'VALUE_MARK': '40000'}]}
+2023-06-05 12:57:38,588:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 12:57:38,607:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98119985&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 12:57:38,620:INFO:nemeltData
+2023-06-05 12:57:38,623:INFO:request_string
+2023-06-05 12:57:38,623:INFO:b'0001POSTADDITIONALDATA#97698119985#enjoy25gb#1#enjoy_nemelt_5gb'
+2023-06-05 12:58:09,896:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 12:58:59,900:INFO:checkUser
+2023-06-05 12:58:59,903:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 12:59:00,649:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 12:59:00,650:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 12:59:00,652:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 12:59:00,681:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98119985&text=Tany%20dugaart%205GB%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 12:59:00,684:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 12:59:00,709:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98119985&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 12:59:00,712:INFO:RESULT
+2023-06-05 12:59:00,712:INFO:
+2023-06-05 12:59:43,328:INFO:98119985
+2023-06-05 12:59:43,328:INFO:D
+2023-06-05 12:59:43,552:INFO:getDataUldegdel
+2023-06-05 12:59:43,554:INFO:request_string
+2023-06-05 12:59:43,554:INFO:b'0001CHECKDATA#97698119985'
+2023-06-05 12:59:43,587:INFO:Data ashiglaagui baina.
+2023-06-05 12:59:43,588:INFO:RESULT
+2023-06-05 12:59:43,588:INFO:Data ashiglaagui baina.
+2023-06-05 13:00:17,023:INFO:98119985
+2023-06-05 13:00:17,023:INFO:D
+2023-06-05 13:00:17,249:INFO:getDataUldegdel
+2023-06-05 13:00:17,251:INFO:request_string
+2023-06-05 13:00:17,251:INFO:b'0001CHECKDATA#97698119985'
+2023-06-05 13:00:17,306:INFO:Data ashiglaagui baina.
+2023-06-05 13:00:17,307:INFO:RESULT
+2023-06-05 13:00:17,308:INFO:Data ashiglaagui baina.
+2023-06-05 13:02:37,852:INFO:83000906
+2023-06-05 13:02:37,853:INFO:D
+2023-06-05 13:02:38,077:INFO:getDataUldegdel
+2023-06-05 13:02:38,079:INFO:request_string
+2023-06-05 13:02:38,079:INFO:b'0001CHECKDATA#97683000906'
+2023-06-05 13:02:38,104:INFO:Data ashiglaagui baina.
+2023-06-05 13:02:38,106:INFO:RESULT
+2023-06-05 13:02:38,106:INFO:Data ashiglaagui baina.
+2023-06-05 13:04:04,292:INFO:toOdko
+2023-06-05 13:04:04,292:INFO:\u041c\u041b99060815
+2023-06-05 13:04:04,293:INFO:checkUser
+2023-06-05 13:04:04,294:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 13:04:06,391:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 13:04:06,392:INFO:[{'CERT_NBR': '\u043c\u043b99060815', 'ACC_NBR': '98101408', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'Y'}]
+2023-06-05 13:04:06,392:INFO:billing deer burtgeltei
+2023-06-05 13:11:56,577:INFO:98090230
+2023-06-05 13:11:56,578:INFO:d
+2023-06-05 13:11:56,804:INFO:getDataUldegdel
+2023-06-05 13:11:56,806:INFO:request_string
+2023-06-05 13:11:56,806:INFO:b'0001CHECKDATA#97698090230'
+2023-06-05 13:11:56,843:INFO:Data ashiglaagui baina.
+2023-06-05 13:11:56,845:INFO:RESULT
+2023-06-05 13:11:56,845:INFO:Data ashiglaagui baina.
+2023-06-05 13:26:27,539:INFO:toOdko
+2023-06-05 13:26:27,539:INFO:\u041c\u041b99060815
+2023-06-05 13:26:27,540:INFO:checkUser
+2023-06-05 13:26:27,541:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 13:26:28,324:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 13:26:28,325:INFO:[{'CERT_NBR': '\u043c\u043b99060815', 'ACC_NBR': '98101408', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'Y'}]
+2023-06-05 13:26:28,325:INFO:billing deer burtgeltei
+2023-06-05 13:44:52,650:INFO:toOdko
+2023-06-05 13:44:52,650:INFO:\u0414\u041474092208
+2023-06-05 13:44:52,650:INFO:checkUser
+2023-06-05 13:44:52,652:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 13:44:53,441:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 13:44:53,442:INFO:[{'CERT_NBR': '\u0414\u041474092208', 'ACC_NBR': '93196406', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'N'}]
+2023-06-05 13:44:53,442:INFO:billing deer burtgeltei
+2023-06-05 13:49:30,145:INFO:toOdko
+2023-06-05 13:49:30,145:INFO:\u0414\u041474092208
+2023-06-05 13:49:30,145:INFO:checkUser
+2023-06-05 13:49:30,147:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 13:49:30,933:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 13:49:30,933:INFO:[{'CERT_NBR': '\u0414\u041474092208', 'ACC_NBR': '93196406', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'N'}]
+2023-06-05 13:49:30,933:INFO:billing deer burtgeltei
+2023-06-05 13:55:20,438:INFO:toOdko
+2023-06-05 13:55:20,438:INFO:\u0414\u041474092208
+2023-06-05 13:55:20,438:INFO:checkUser
+2023-06-05 13:55:20,439:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 13:55:21,247:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 13:55:21,248:INFO:[{'CERT_NBR': '\u0414\u041474092208', 'ACC_NBR': '93196406', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'N'}]
+2023-06-05 13:55:21,248:INFO:billing deer burtgeltei
+2023-06-05 14:01:50,721:INFO:98080255
+2023-06-05 14:01:50,721:INFO:5gb
+2023-06-05 14:01:50,951:INFO:infoUser
+2023-06-05 14:01:50,953:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 14:01:55,055:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 511
+2023-06-05 14:01:55,056:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98080255', 'PROD_STATE': 'A', 'ACCT_ID': '3712897', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4323', 'PRICE_PLAN_CODE': 'enjoy2gb', 'PRICE_PLAN_NAME': 'Post Enjoy Data 5GB_20000C 20000D_with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '20000 D'}, {'ACC_NBR': '98080255', 'PROD_STATE': 'A', 'ACCT_ID': '3712897', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '29-APR-23', 'EXP_DATE': None, 'VALUE_MARK': '20000 D'}]}
+2023-06-05 14:01:55,057:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 14:01:55,084:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98080255&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 14:01:55,096:INFO:nemeltData
+2023-06-05 14:01:55,097:INFO:request_string
+2023-06-05 14:01:55,097:INFO:b'0001POSTADDITIONALDATA#97698080255#enjoy2gb#1#enjoy_nemelt_5gb'
+2023-06-05 14:02:26,806:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 14:03:16,834:INFO:checkUser
+2023-06-05 14:03:16,836:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 14:03:17,585:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 14:03:17,586:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 14:03:17,587:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 14:03:17,614:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98080255&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 14:03:17,617:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 14:03:17,658:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98080255&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 14:03:17,661:INFO:RESULT
+2023-06-05 14:03:17,661:INFO:
+2023-06-05 14:06:00,622:INFO:toOdko
+2023-06-05 14:06:00,623:INFO:\u041c\u041b99060815
+2023-06-05 14:06:00,623:INFO:checkUser
+2023-06-05 14:06:00,624:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 14:06:01,406:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 14:06:01,407:INFO:[{'CERT_NBR': '\u043c\u043b99060815', 'ACC_NBR': '98101408', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'Y'}]
+2023-06-05 14:06:01,407:INFO:billing deer burtgeltei
+2023-06-05 14:10:04,947:INFO:98080255
+2023-06-05 14:10:04,947:INFO:D
+2023-06-05 14:10:05,197:INFO:getDataUldegdel
+2023-06-05 14:10:05,200:INFO:request_string
+2023-06-05 14:10:05,200:INFO:b'0001CHECKDATA#97698080255'
+2023-06-05 14:10:05,240:INFO:Data ashiglaagui baina.
+2023-06-05 14:10:05,242:INFO:RESULT
+2023-06-05 14:10:05,242:INFO:Data ashiglaagui baina.
+2023-06-05 14:25:04,117:INFO:toOdko
+2023-06-05 14:25:04,118:INFO:\u041c\u042206210518
+2023-06-05 14:25:04,118:INFO:checkUser
+2023-06-05 14:25:04,119:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 14:25:04,905:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 14:25:04,905:INFO:[]
+2023-06-05 14:25:04,915:INFO:nad deer burtgeltei
+2023-06-05 14:30:31,851:INFO:toOdko
+2023-06-05 14:30:31,851:INFO:\u041c\u042206210518
+2023-06-05 14:30:31,852:INFO:checkUser
+2023-06-05 14:30:31,853:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 14:30:32,976:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 14:30:32,977:INFO:[]
+2023-06-05 14:30:32,987:INFO:nad deer burtgeltei
+2023-06-05 14:32:07,249:INFO:93030606
+2023-06-05 14:32:07,249:INFO:2023-05
+2023-06-05 14:32:07,479:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 14:32:07,500:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93030606&text=Ta%20nemelt%20data%20bagcyn%20talaar%20delgerengui%20medeelel%20avax%20bol%20'help'%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 14:32:07,503:INFO:RESULT
+2023-06-05 14:32:07,503:INFO:Ta nemelt data bagcyn talaar delgerengui medeelel avax bol 'help' utgyg 510 dugaart ilgeene uu. Gmobile
+2023-06-05 14:32:33,620:INFO:93030606
+2023-06-05 14:32:33,620:INFO:help
+2023-06-05 14:32:33,847:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 14:32:33,871:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93030606&text=Ta%20sar%20duustal%205GB%20xurtel%20xurdny%20xyazgaargui%20ashiglax%20nemelt%20data%20bagc%20idevxjuulex%20bol%205GB%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Sariin%20suuri%20xuraamj%2010000T HTTP/1.1" 200 24
+2023-06-05 14:32:33,872:INFO:res1
+2023-06-05 14:32:33,872:INFO:b'0: Accepted for delivery'
+2023-06-05 14:32:33,873:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 14:32:33,897:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93030606&text=Ta%20sar%20duustal%2010GB%20xurtel%20xurdny%20xyazgaargui%20ashiglax%20nemelt%20data%20bagc%20idevxjuulex%20bol%2010GB%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Sariin%20suuri%20xuraamj%2018000T HTTP/1.1" 200 24
+2023-06-05 14:32:33,898:INFO:res2
+2023-06-05 14:32:33,898:INFO:b'0: Accepted for delivery'
+2023-06-05 14:32:33,899:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 14:32:33,920:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93030606&text=Tany%20idevxjuulsen%20nemelt%20data%20bagc%20duussan%20toxioldold%20tuxain%20sar%20duustal%201Mbps%20xurdaar%20interneted%20xolbogdono.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 14:32:33,921:INFO:res3
+2023-06-05 14:32:33,921:INFO:b'0: Accepted for delivery'
+2023-06-05 14:32:33,923:INFO:RESULT
+2023-06-05 14:32:33,923:INFO:
+2023-06-05 14:33:25,202:INFO:98011110
+2023-06-05 14:33:25,202:INFO:5GB
+2023-06-05 14:33:25,430:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 14:33:25,459:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98011110&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 14:33:25,461:INFO:RESULT
+2023-06-05 14:33:25,461:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 14:33:32,938:INFO:98011110
+2023-06-05 14:33:32,938:INFO:D
+2023-06-05 14:33:33,174:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 14:33:33,212:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98011110&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 14:33:33,215:INFO:RESULT
+2023-06-05 14:33:33,215:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 14:42:39,930:INFO:toOdko
+2023-06-05 14:42:39,930:INFO:\u041e\u042173022801
+2023-06-05 14:42:39,930:INFO:checkUser
+2023-06-05 14:42:39,932:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 14:42:40,757:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 124
+2023-06-05 14:42:40,758:INFO:[{'CERT_NBR': '\u041e\u042173022801', 'ACC_NBR': '98086679', 'PROD_STATE': 'D', 'PROD_STATE_NAME': 'One-Way Block', 'POSTPAID': 'Y'}]
+2023-06-05 14:42:40,758:INFO:billing deer burtgeltei
+2023-06-05 15:02:48,892:INFO:toOdko
+2023-06-05 15:02:48,892:INFO:\u0420\u042568052821
+2023-06-05 15:02:48,892:INFO:checkUser
+2023-06-05 15:02:48,894:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 15:02:49,690:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 15:02:49,691:INFO:[]
+2023-06-05 15:02:49,700:INFO:nad deer burtgeltei
+2023-06-05 15:36:30,417:INFO:98172918
+2023-06-05 15:36:30,418:INFO:5gb
+2023-06-05 15:36:30,645:INFO:infoUser
+2023-06-05 15:36:30,647:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 15:36:34,250:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-05 15:36:34,251:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98172918', 'PROD_STATE': 'A', 'ACCT_ID': '3457674', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '98172918', 'PROD_STATE': 'A', 'ACCT_ID': '3457674', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '29-APR-21', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-05 15:36:34,253:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 15:36:34,286:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98172918&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 15:36:34,298:INFO:nemeltData
+2023-06-05 15:36:34,300:INFO:request_string
+2023-06-05 15:36:34,300:INFO:b'0001POSTADDITIONALDATA#97698172918#enjoy1gb#1#enjoy_nemelt_5gb'
+2023-06-05 15:37:05,586:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 15:37:55,596:INFO:checkUser
+2023-06-05 15:37:55,598:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 15:37:56,344:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 15:37:56,345:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 15:37:56,347:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 15:37:56,380:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98172918&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 15:37:56,383:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 15:37:56,407:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98172918&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 15:37:56,410:INFO:RESULT
+2023-06-05 15:37:56,410:INFO:
+2023-06-05 15:38:29,596:INFO:98172918
+2023-06-05 15:38:29,596:INFO:D
+2023-06-05 15:38:29,828:INFO:getDataUldegdel
+2023-06-05 15:38:29,829:INFO:request_string
+2023-06-05 15:38:29,829:INFO:b'0001CHECKDATA#97698172918'
+2023-06-05 15:38:29,876:INFO:Data ashiglaagui baina.
+2023-06-05 15:38:29,878:INFO:RESULT
+2023-06-05 15:38:29,878:INFO:Data ashiglaagui baina.
+2023-06-05 15:40:57,923:INFO:98009848
+2023-06-05 15:40:57,923:INFO:5gb
+2023-06-05 15:40:58,146:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 15:40:58,168:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98009848&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 15:40:58,171:INFO:RESULT
+2023-06-05 15:40:58,171:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 16:26:29,829:INFO:98248438
+2023-06-05 16:26:29,829:INFO:D
+2023-06-05 16:26:30,054:INFO:getDataUldegdel
+2023-06-05 16:26:30,057:INFO:request_string
+2023-06-05 16:26:30,057:INFO:b'0001CHECKDATA#97698248438'
+2023-06-05 16:26:30,086:INFO:-2800686329|2023-07-01 00:00:00
+2023-06-05 16:26:30,086:INFO:uldegdel
+2023-06-05 16:26:30,086:INFO:['-2800686329', '2023-07-01 00:00:00']
+2023-06-05 16:26:30,087:INFO:RESULT
+2023-06-05 16:26:30,087:INFO:Ta 2670.94MB nemelt data bagc ashiglasan baina. Tany nemelt data bagcyn xugacaa 2023.06.30 duusna. Gmobile
+2023-06-05 16:27:03,165:INFO:toOdko
+2023-06-05 16:27:03,166:INFO:\u0421\u041161092219
+2023-06-05 16:27:03,166:INFO:checkUser
+2023-06-05 16:27:03,167:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 16:27:03,959:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 16:27:03,959:INFO:[{'CERT_NBR': '\u0421\u041161092219', 'ACC_NBR': '98585849', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'N'}]
+2023-06-05 16:27:03,959:INFO:billing deer burtgeltei
+2023-06-05 16:33:38,848:INFO:toOdko
+2023-06-05 16:33:38,848:INFO:\u041c\u041b99060815
+2023-06-05 16:33:38,848:INFO:checkUser
+2023-06-05 16:33:38,850:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 16:33:39,634:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 16:33:39,634:INFO:[{'CERT_NBR': '\u043c\u043b99060815', 'ACC_NBR': '98101408', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'Y'}]
+2023-06-05 16:33:39,634:INFO:billing deer burtgeltei
+2023-06-05 16:34:30,591:INFO:toOdko
+2023-06-05 16:34:30,591:INFO:\u041c\u041b99060815
+2023-06-05 16:34:30,591:INFO:checkUser
+2023-06-05 16:34:30,593:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 16:34:31,381:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 16:34:31,382:INFO:[{'CERT_NBR': '\u043c\u043b99060815', 'ACC_NBR': '98101408', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'Y'}]
+2023-06-05 16:34:31,382:INFO:billing deer burtgeltei
+2023-06-05 16:35:33,784:INFO:toOdko
+2023-06-05 16:35:33,785:INFO:\u041f\u041198033120
+2023-06-05 16:35:33,785:INFO:checkUser
+2023-06-05 16:35:33,786:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 16:35:34,585:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 16:35:34,586:INFO:[{'CERT_NBR': '\u041f\u041198033120', 'ACC_NBR': '98101153', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'Y'}]
+2023-06-05 16:35:34,586:INFO:billing deer burtgeltei
+2023-06-05 16:45:36,682:INFO:98116134
+2023-06-05 16:45:36,683:INFO:D
+2023-06-05 16:45:36,913:INFO:getDataUldegdel
+2023-06-05 16:45:36,915:INFO:request_string
+2023-06-05 16:45:36,915:INFO:b'0001CHECKDATA#97698116134'
+2023-06-05 16:45:36,926:INFO:Error.
+2023-06-05 16:45:36,926:INFO:uldegdel
+2023-06-05 16:45:36,926:INFO:['Error.']
+2023-06-05 16:45:36,973:ERROR:Internal Server Error: /api/510nemeltData
+Traceback (most recent call last):
+  File "/home/ezen/tusgaidugaar/tusgaidugaarenv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ezen/tusgaidugaar/tusgaidugaarenv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ezen/tusgaidugaar/tusgaidugaarenv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/ezen/tusgaidugaar/tusgaidugaarenv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ezen/tusgaidugaar/tusgaidugaarenv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/ezen/tusgaidugaar/tusgaidugaarenv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/ezen/tusgaidugaar/tusgaidugaarenv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/ezen/tusgaidugaar/tusgaidugaarenv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/ezen/tusgaidugaar/tusgaidugaarenv/lib/python3.10/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/home/ezen/tusgaidugaar/sms510/views.py", line 526, in receive_sms510
+    if int(uldegdel[0]) < 0:
+ValueError: invalid literal for int() with base 10: 'Error.'
+2023-06-05 16:45:49,451:INFO:98116134
+2023-06-05 16:45:49,452:INFO:D
+2023-06-05 16:45:49,676:INFO:getDataUldegdel
+2023-06-05 16:45:49,678:INFO:request_string
+2023-06-05 16:45:49,679:INFO:b'0001CHECKDATA#97698116134'
+2023-06-05 16:45:49,707:INFO:Data ashiglaagui baina.
+2023-06-05 16:45:49,709:INFO:RESULT
+2023-06-05 16:45:49,709:INFO:Data ashiglaagui baina.
+2023-06-05 16:49:10,775:INFO:toOdko
+2023-06-05 16:49:10,775:INFO:\u041c\u041b99060815
+2023-06-05 16:49:10,775:INFO:checkUser
+2023-06-05 16:49:10,777:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 16:49:11,558:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 16:49:11,558:INFO:[{'CERT_NBR': '\u043c\u043b99060815', 'ACC_NBR': '98101408', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'Y'}]
+2023-06-05 16:49:11,558:INFO:billing deer burtgeltei
+2023-06-05 16:49:28,649:INFO:toOdko
+2023-06-05 16:49:28,649:INFO:\u041f\u041198033120
+2023-06-05 16:49:28,650:INFO:checkUser
+2023-06-05 16:49:28,651:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 16:49:29,439:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 16:49:29,440:INFO:[{'CERT_NBR': '\u041f\u041198033120', 'ACC_NBR': '98101153', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'Y'}]
+2023-06-05 16:49:29,440:INFO:billing deer burtgeltei
+2023-06-05 16:53:51,925:INFO:98190098
+2023-06-05 16:53:51,925:INFO:D
+2023-06-05 16:53:52,156:INFO:getDataUldegdel
+2023-06-05 16:53:52,158:INFO:request_string
+2023-06-05 16:53:52,158:INFO:b'0001CHECKDATA#97698190098'
+2023-06-05 16:53:52,211:INFO:Data ashiglaagui baina.
+2023-06-05 16:53:52,214:INFO:RESULT
+2023-06-05 16:53:52,214:INFO:Data ashiglaagui baina.
+2023-06-05 17:21:49,638:INFO:97112222
+2023-06-05 17:21:49,639:INFO:5Gb
+2023-06-05 17:21:49,868:INFO:infoUser
+2023-06-05 17:21:49,869:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 17:21:53,456:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 503
+2023-06-05 17:21:53,457:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '97112222', 'PROD_STATE': 'A', 'ACCT_ID': '1017833', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4328', 'PRICE_PLAN_CODE': '4328', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS B', 'EFF_DATE': '01-AUG-20', 'EXP_DATE': None, 'VALUE_MARK': '40000'}, {'ACC_NBR': '97112222', 'PROD_STATE': 'A', 'ACCT_ID': '1017833', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4302', 'PRICE_PLAN_CODE': 'enjoy25gb', 'PRICE_PLAN_NAME': 'Post Enjoy Data 30GB_40000_with PCRF', 'EFF_DATE': '01-APR-23', 'EXP_DATE': None, 'VALUE_MARK': '40000'}]}
+2023-06-05 17:21:53,459:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 17:21:53,497:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=97112222&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 17:21:53,510:INFO:nemeltData
+2023-06-05 17:21:53,512:INFO:request_string
+2023-06-05 17:21:53,512:INFO:b'0001POSTADDITIONALDATA#97697112222#enjoy25gb#1#enjoy_nemelt_5gb'
+2023-06-05 17:22:24,993:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 17:23:15,043:INFO:checkUser
+2023-06-05 17:23:15,045:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 17:23:15,791:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 17:23:15,792:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 17:23:15,793:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 17:23:15,812:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=97112222&text=Tany%20dugaart%205Gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 17:23:15,815:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 17:23:15,835:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=97112222&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 17:23:15,839:INFO:RESULT
+2023-06-05 17:23:15,839:INFO:
+2023-06-05 17:30:52,536:INFO:83000906
+2023-06-05 17:30:52,536:INFO:D
+2023-06-05 17:30:52,765:INFO:getDataUldegdel
+2023-06-05 17:30:52,766:INFO:request_string
+2023-06-05 17:30:52,767:INFO:b'0001CHECKDATA#97683000906'
+2023-06-05 17:30:52,868:INFO:Data ashiglaagui baina.
+2023-06-05 17:30:52,870:INFO:RESULT
+2023-06-05 17:30:52,870:INFO:Data ashiglaagui baina.
+2023-06-05 17:37:29,083:INFO:toOdko
+2023-06-05 17:37:29,083:INFO:\u041e\u041075010536
+2023-06-05 17:37:29,084:INFO:checkUser
+2023-06-05 17:37:29,085:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 17:37:29,870:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 17:37:29,871:INFO:[]
+2023-06-05 17:37:29,880:INFO:nad deer burtgeltei
+2023-06-05 17:53:49,653:INFO:98998908
+2023-06-05 17:53:49,653:INFO:D
+2023-06-05 17:53:49,879:INFO:getDataUldegdel
+2023-06-05 17:53:49,880:INFO:request_string
+2023-06-05 17:53:49,880:INFO:b'0001CHECKDATA#97698998908'
+2023-06-05 17:53:49,920:INFO:Data ashiglaagui baina.
+2023-06-05 17:53:49,922:INFO:RESULT
+2023-06-05 17:53:49,922:INFO:Data ashiglaagui baina.
+2023-06-05 18:00:37,472:INFO:toOdko
+2023-06-05 18:00:37,472:INFO:\u0410\u041996112111
+2023-06-05 18:00:37,472:INFO:checkUser
+2023-06-05 18:00:37,474:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 18:00:38,311:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 18:00:38,312:INFO:[]
+2023-06-05 18:00:38,321:INFO:nad deer burtgeltei
+2023-06-05 18:02:29,146:INFO:toOdko
+2023-06-05 18:02:29,146:INFO:\u0410\u041996112111
+2023-06-05 18:02:29,146:INFO:checkUser
+2023-06-05 18:02:29,148:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 18:02:29,938:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 18:02:29,939:INFO:[]
+2023-06-05 18:02:29,948:INFO:nad deer burtgeltei
+2023-06-05 18:27:58,172:INFO:98112528
+2023-06-05 18:27:58,172:INFO:5GB
+2023-06-05 18:27:58,401:INFO:infoUser
+2023-06-05 18:27:58,402:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 18:28:02,015:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 511
+2023-06-05 18:28:02,016:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98112528', 'PROD_STATE': 'A', 'ACCT_ID': '2806426', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4323', 'PRICE_PLAN_CODE': 'enjoy2gb', 'PRICE_PLAN_NAME': 'Post Enjoy Data 5GB_20000C 20000D_with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '20000 D'}, {'ACC_NBR': '98112528', 'PROD_STATE': 'A', 'ACCT_ID': '2806426', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '01-JUN-20', 'EXP_DATE': None, 'VALUE_MARK': '20000 D'}]}
+2023-06-05 18:28:02,020:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 18:28:02,056:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98112528&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 18:28:02,076:INFO:nemeltData
+2023-06-05 18:28:02,079:INFO:request_string
+2023-06-05 18:28:02,079:INFO:b'0001POSTADDITIONALDATA#97698112528#enjoy2gb#1#enjoy_nemelt_5gb'
+2023-06-05 18:28:33,434:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 18:29:23,442:INFO:checkUser
+2023-06-05 18:29:23,444:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 18:29:24,194:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 18:29:24,195:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 18:29:24,197:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 18:29:24,222:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98112528&text=Tany%20dugaart%205GB%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 18:29:24,224:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 18:29:24,265:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98112528&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 18:29:24,268:INFO:RESULT
+2023-06-05 18:29:24,268:INFO:
+2023-06-05 18:30:18,410:INFO:98000518
+2023-06-05 18:30:18,411:INFO:D
+2023-06-05 18:30:18,641:INFO:getDataUldegdel
+2023-06-05 18:30:18,643:INFO:request_string
+2023-06-05 18:30:18,643:INFO:b'0001CHECKDATA#97698000518'
+2023-06-05 18:30:18,672:INFO:Data ashiglaagui baina.
+2023-06-05 18:30:18,674:INFO:RESULT
+2023-06-05 18:30:18,674:INFO:Data ashiglaagui baina.
+2023-06-05 18:30:26,328:INFO:98000518
+2023-06-05 18:30:26,329:INFO:5GB
+2023-06-05 18:30:26,554:INFO:infoUser
+2023-06-05 18:30:26,555:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 18:30:30,195:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-05 18:30:30,196:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98000518', 'PROD_STATE': 'A', 'ACCT_ID': '3440505', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '98000518', 'PROD_STATE': 'A', 'ACCT_ID': '3440505', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '02-MAR-21', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-05 18:30:30,198:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 18:30:30,223:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98000518&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 18:30:30,235:INFO:nemeltData
+2023-06-05 18:30:30,237:INFO:request_string
+2023-06-05 18:30:30,237:INFO:b'0001POSTADDITIONALDATA#97698000518#enjoy1gb#1#enjoy_nemelt_5gb'
+2023-06-05 18:31:01,395:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 18:31:51,446:INFO:checkUser
+2023-06-05 18:31:51,447:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 18:31:52,192:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 18:31:52,193:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 18:31:52,194:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 18:31:52,236:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98000518&text=Tany%20dugaart%205GB%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 18:31:52,238:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 18:31:52,263:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98000518&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 18:31:52,266:INFO:RESULT
+2023-06-05 18:31:52,266:INFO:
+2023-06-05 18:35:48,030:INFO:98991060
+2023-06-05 18:35:48,030:INFO:D
+2023-06-05 18:35:48,256:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 18:35:48,284:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98991060&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 18:35:48,288:INFO:RESULT
+2023-06-05 18:35:48,288:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 18:36:43,318:INFO:toOdko
+2023-06-05 18:36:43,318:INFO:\u041e\u041083102318
+2023-06-05 18:36:43,318:INFO:checkUser
+2023-06-05 18:36:43,320:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 18:36:44,109:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 18:36:44,109:INFO:[]
+2023-06-05 18:36:44,118:INFO:nad deer burtgeltei
+2023-06-05 18:39:17,851:INFO:toOdko
+2023-06-05 18:39:17,851:INFO:\u0421\u041968102236
+2023-06-05 18:39:17,851:INFO:checkUser
+2023-06-05 18:39:17,853:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 18:39:18,646:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 124
+2023-06-05 18:39:18,646:INFO:[{'CERT_NBR': '\u0421\u041968102236', 'ACC_NBR': '93230602', 'PROD_STATE': 'E', 'PROD_STATE_NAME': 'Two-Way Block', 'POSTPAID': 'N'}]
+2023-06-05 18:39:18,646:INFO:billing deer burtgeltei
+2023-06-05 19:02:50,548:INFO:toOdko
+2023-06-05 19:02:50,549:INFO:\u0412\u042181072714
+2023-06-05 19:02:50,549:INFO:checkUser
+2023-06-05 19:02:50,550:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 19:02:51,373:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 19:02:51,373:INFO:[]
+2023-06-05 19:02:51,383:INFO:nad deer burtgeltei
+2023-06-05 19:10:49,499:INFO:98991060
+2023-06-05 19:10:49,499:INFO:5GB
+2023-06-05 19:10:49,723:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 19:10:49,747:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98991060&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 19:10:49,750:INFO:RESULT
+2023-06-05 19:10:49,750:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 19:23:02,602:INFO:98244664
+2023-06-05 19:23:02,602:INFO:5GB
+2023-06-05 19:23:02,830:INFO:infoUser
+2023-06-05 19:23:02,831:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 19:23:06,436:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 506
+2023-06-05 19:23:06,437:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98244664', 'PROD_STATE': 'A', 'ACCT_ID': '3636406', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4328', 'PRICE_PLAN_CODE': '4328', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS B', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '15000 B'}, {'ACC_NBR': '98244664', 'PROD_STATE': 'A', 'ACCT_ID': '3636406', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4703', 'PRICE_PLAN_CODE': 'enjoy3gb', 'PRICE_PLAN_NAME': 'Post Enjoy Data 5GB_15000B_with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '15000 B'}]}
+2023-06-05 19:23:06,438:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 19:23:06,470:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98244664&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 19:23:06,482:INFO:nemeltData
+2023-06-05 19:23:06,484:INFO:request_string
+2023-06-05 19:23:06,484:INFO:b'0001POSTADDITIONALDATA#97698244664#enjoy3gb#1#enjoy_nemelt_5gb'
+2023-06-05 19:23:37,777:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 19:24:27,804:INFO:checkUser
+2023-06-05 19:24:27,806:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 19:24:28,551:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 19:24:28,551:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 19:24:28,553:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 19:24:28,588:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98244664&text=Tany%20dugaart%205GB%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 19:24:28,590:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 19:24:28,613:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98244664&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 19:24:28,616:INFO:RESULT
+2023-06-05 19:24:28,616:INFO:
+2023-06-05 19:26:14,418:INFO:toOdko
+2023-06-05 19:26:14,419:INFO:\u0417\u041f83110804
+2023-06-05 19:26:14,419:INFO:checkUser
+2023-06-05 19:26:14,420:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 19:26:15,204:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 2
+2023-06-05 19:26:15,204:INFO:[]
+2023-06-05 19:26:15,213:INFO:nad deer burtgeltei
+2023-06-05 19:30:19,166:INFO:toOdko
+2023-06-05 19:30:19,167:INFO:\u041f\u041198033120
+2023-06-05 19:30:19,167:INFO:checkUser
+2023-06-05 19:30:19,168:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 19:30:20,310:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 19:30:20,310:INFO:[{'CERT_NBR': '\u041f\u041198033120', 'ACC_NBR': '98101153', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'Y'}]
+2023-06-05 19:30:20,311:INFO:billing deer burtgeltei
+2023-06-05 19:31:12,185:INFO:toOdko
+2023-06-05 19:31:12,185:INFO:\u041f\u041198033120
+2023-06-05 19:31:12,185:INFO:checkUser
+2023-06-05 19:31:12,186:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8080
+2023-06-05 19:31:12,986:DEBUG:http://192.168.18.105:8080 "POST /index.php/billing/check HTTP/1.1" 200 117
+2023-06-05 19:31:12,987:INFO:[{'CERT_NBR': '\u041f\u041198033120', 'ACC_NBR': '98101153', 'PROD_STATE': 'A', 'PROD_STATE_NAME': 'Active', 'POSTPAID': 'Y'}]
+2023-06-05 19:31:12,987:INFO:billing deer burtgeltei
+2023-06-05 19:59:38,234:INFO:98850531
+2023-06-05 19:59:38,235:INFO:500
+2023-06-05 19:59:38,463:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 19:59:38,488:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98850531&text=Ta%20nemelt%20data%20bagcyn%20talaar%20delgerengui%20medeelel%20avax%20bol%20'help'%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 19:59:38,491:INFO:RESULT
+2023-06-05 19:59:38,491:INFO:Ta nemelt data bagcyn talaar delgerengui medeelel avax bol 'help' utgyg 510 dugaart ilgeene uu. Gmobile
+2023-06-05 20:12:52,294:INFO:98001105
+2023-06-05 20:12:52,294:INFO:2gb
+2023-06-05 20:12:52,524:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 20:12:52,545:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98001105&text=Ta%20nemelt%20data%20bagcyn%20talaar%20delgerengui%20medeelel%20avax%20bol%20'help'%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 20:12:52,548:INFO:RESULT
+2023-06-05 20:12:52,548:INFO:Ta nemelt data bagcyn talaar delgerengui medeelel avax bol 'help' utgyg 510 dugaart ilgeene uu. Gmobile
+2023-06-05 20:13:03,448:INFO:98001105
+2023-06-05 20:13:03,448:INFO:help
+2023-06-05 20:13:03,676:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 20:13:03,702:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98001105&text=Ta%20sar%20duustal%205GB%20xurtel%20xurdny%20xyazgaargui%20ashiglax%20nemelt%20data%20bagc%20idevxjuulex%20bol%205GB%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Sariin%20suuri%20xuraamj%2010000T HTTP/1.1" 200 24
+2023-06-05 20:13:03,703:INFO:res1
+2023-06-05 20:13:03,704:INFO:b'0: Accepted for delivery'
+2023-06-05 20:13:03,705:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 20:13:03,725:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98001105&text=Ta%20sar%20duustal%2010GB%20xurtel%20xurdny%20xyazgaargui%20ashiglax%20nemelt%20data%20bagc%20idevxjuulex%20bol%2010GB%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Sariin%20suuri%20xuraamj%2018000T HTTP/1.1" 200 24
+2023-06-05 20:13:03,725:INFO:res2
+2023-06-05 20:13:03,725:INFO:b'0: Accepted for delivery'
+2023-06-05 20:13:03,727:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 20:13:03,748:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98001105&text=Tany%20idevxjuulsen%20nemelt%20data%20bagc%20duussan%20toxioldold%20tuxain%20sar%20duustal%201Mbps%20xurdaar%20interneted%20xolbogdono.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 20:13:03,748:INFO:res3
+2023-06-05 20:13:03,749:INFO:b'0: Accepted for delivery'
+2023-06-05 20:13:03,750:INFO:RESULT
+2023-06-05 20:13:03,750:INFO:
+2023-06-05 20:13:36,910:INFO:98001105
+2023-06-05 20:13:36,910:INFO:5gb
+2023-06-05 20:13:37,135:INFO:infoUser
+2023-06-05 20:13:37,136:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 20:13:40,784:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-05 20:13:40,784:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98001105', 'PROD_STATE': 'A', 'ACCT_ID': '3458509', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '98001105', 'PROD_STATE': 'A', 'ACCT_ID': '3458509', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '03-MAY-21', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-05 20:13:40,786:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 20:13:40,811:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98001105&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 20:13:40,822:INFO:nemeltData
+2023-06-05 20:13:40,824:INFO:request_string
+2023-06-05 20:13:40,824:INFO:b'0001POSTADDITIONALDATA#97698001105#enjoy1gb#1#enjoy_nemelt_5gb'
+2023-06-05 20:14:12,276:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 20:15:02,283:INFO:checkUser
+2023-06-05 20:15:02,284:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 20:15:03,035:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 20:15:03,035:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 20:15:03,037:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 20:15:03,073:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98001105&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 20:15:03,076:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 20:15:03,095:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98001105&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 20:15:03,098:INFO:RESULT
+2023-06-05 20:15:03,098:INFO:
+2023-06-05 21:04:22,984:INFO:93059349
+2023-06-05 21:04:22,984:INFO:5GB
+2023-06-05 21:04:23,212:INFO:infoUser
+2023-06-05 21:04:23,213:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 21:04:26,827:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-05 21:04:26,828:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '93059349', 'PROD_STATE': 'A', 'ACCT_ID': '3388049', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '93059349', 'PROD_STATE': 'A', 'ACCT_ID': '3388049', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '06-OCT-20', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-05 21:04:26,830:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:04:26,850:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93059349&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 21:04:26,862:INFO:nemeltData
+2023-06-05 21:04:26,864:INFO:request_string
+2023-06-05 21:04:26,864:INFO:b'0001POSTADDITIONALDATA#97693059349#enjoy1gb#1#enjoy_nemelt_5gb'
+2023-06-05 21:04:58,176:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 21:05:48,209:INFO:checkUser
+2023-06-05 21:05:48,210:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 21:05:48,951:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 21:05:48,952:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 21:05:48,954:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:05:48,976:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93059349&text=Tany%20dugaart%205GB%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 21:05:48,979:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:05:49,002:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93059349&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 21:05:49,005:INFO:RESULT
+2023-06-05 21:05:49,005:INFO:
+2023-06-05 21:06:58,801:INFO:98320609
+2023-06-05 21:06:58,801:INFO:D
+2023-06-05 21:06:59,026:INFO:getDataUldegdel
+2023-06-05 21:06:59,028:INFO:request_string
+2023-06-05 21:06:59,028:INFO:b'0001CHECKDATA#97698320609'
+2023-06-05 21:06:59,079:INFO:Data ashiglaagui baina.
+2023-06-05 21:06:59,080:INFO:RESULT
+2023-06-05 21:06:59,080:INFO:Data ashiglaagui baina.
+2023-06-05 21:07:16,931:INFO:98320609
+2023-06-05 21:07:16,931:INFO:D
+2023-06-05 21:07:17,157:INFO:getDataUldegdel
+2023-06-05 21:07:17,160:INFO:request_string
+2023-06-05 21:07:17,161:INFO:b'0001CHECKDATA#97698320609'
+2023-06-05 21:07:17,188:INFO:Data ashiglaagui baina.
+2023-06-05 21:07:17,190:INFO:RESULT
+2023-06-05 21:07:17,190:INFO:Data ashiglaagui baina.
+2023-06-05 21:07:35,574:INFO:98320609
+2023-06-05 21:07:35,574:INFO:D
+2023-06-05 21:07:35,800:INFO:getDataUldegdel
+2023-06-05 21:07:35,802:INFO:request_string
+2023-06-05 21:07:35,802:INFO:b'0001CHECKDATA#97698320609'
+2023-06-05 21:07:35,829:INFO:Data ashiglaagui baina.
+2023-06-05 21:07:35,831:INFO:RESULT
+2023-06-05 21:07:35,831:INFO:Data ashiglaagui baina.
+2023-06-05 21:24:41,270:INFO:93011515
+2023-06-05 21:24:41,270:INFO:help
+2023-06-05 21:24:41,500:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:24:41,522:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93011515&text=Ta%20sar%20duustal%205GB%20xurtel%20xurdny%20xyazgaargui%20ashiglax%20nemelt%20data%20bagc%20idevxjuulex%20bol%205GB%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Sariin%20suuri%20xuraamj%2010000T HTTP/1.1" 200 24
+2023-06-05 21:24:41,523:INFO:res1
+2023-06-05 21:24:41,524:INFO:b'0: Accepted for delivery'
+2023-06-05 21:24:41,525:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:24:41,547:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93011515&text=Ta%20sar%20duustal%2010GB%20xurtel%20xurdny%20xyazgaargui%20ashiglax%20nemelt%20data%20bagc%20idevxjuulex%20bol%2010GB%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Sariin%20suuri%20xuraamj%2018000T HTTP/1.1" 200 24
+2023-06-05 21:24:41,548:INFO:res2
+2023-06-05 21:24:41,548:INFO:b'0: Accepted for delivery'
+2023-06-05 21:24:41,549:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:24:41,572:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93011515&text=Tany%20idevxjuulsen%20nemelt%20data%20bagc%20duussan%20toxioldold%20tuxain%20sar%20duustal%201Mbps%20xurdaar%20interneted%20xolbogdono.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 21:24:41,573:INFO:res3
+2023-06-05 21:24:41,573:INFO:b'0: Accepted for delivery'
+2023-06-05 21:24:41,574:INFO:RESULT
+2023-06-05 21:24:41,575:INFO:
+2023-06-05 21:32:12,291:INFO:98631100
+2023-06-05 21:32:12,292:INFO:5gb
+2023-06-05 21:32:12,520:INFO:infoUser
+2023-06-05 21:32:12,522:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 21:32:16,134:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-05 21:32:16,135:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98631100', 'PROD_STATE': 'A', 'ACCT_ID': '3386129', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '98631100', 'PROD_STATE': 'A', 'ACCT_ID': '3386129', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '02-OCT-20', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-05 21:32:16,136:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:32:16,176:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98631100&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 21:32:16,188:INFO:nemeltData
+2023-06-05 21:32:16,189:INFO:request_string
+2023-06-05 21:32:16,189:INFO:b'0001POSTADDITIONALDATA#97698631100#enjoy1gb#1#enjoy_nemelt_5gb'
+2023-06-05 21:32:47,351:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 21:33:37,401:INFO:checkUser
+2023-06-05 21:33:37,402:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 21:33:38,147:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 21:33:38,147:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 21:33:38,149:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:33:38,192:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98631100&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 21:33:38,194:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:33:38,219:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98631100&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 21:33:38,223:INFO:RESULT
+2023-06-05 21:33:38,223:INFO:
+2023-06-05 21:34:51,453:INFO:98119543
+2023-06-05 21:34:51,453:INFO:5gb
+2023-06-05 21:34:51,679:INFO:infoUser
+2023-06-05 21:34:51,681:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 21:34:55,275:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 505
+2023-06-05 21:34:55,276:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98119543', 'PROD_STATE': 'A', 'ACCT_ID': '3555159', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4326', 'PRICE_PLAN_CODE': 'enjoy5gb', 'PRICE_PLAN_NAME': 'Post Enjoy Data 10GB_30000C_with PCRF', 'EFF_DATE': '01-APR-23', 'EXP_DATE': None, 'VALUE_MARK': '30000 C'}, {'ACC_NBR': '98119543', 'PROD_STATE': 'A', 'ACCT_ID': '3555159', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '03-JAN-22', 'EXP_DATE': None, 'VALUE_MARK': '30000 C'}]}
+2023-06-05 21:34:55,277:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:34:55,309:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98119543&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 21:34:55,321:INFO:nemeltData
+2023-06-05 21:34:55,323:INFO:request_string
+2023-06-05 21:34:55,323:INFO:b'0001POSTADDITIONALDATA#97698119543#enjoy5gb#1#enjoy_nemelt_5gb'
+2023-06-05 21:34:58,587:INFO:97188383
+2023-06-05 21:34:58,587:INFO:5GB
+2023-06-05 21:34:58,813:INFO:infoUser
+2023-06-05 21:34:58,814:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 21:35:02,447:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-05 21:35:02,448:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '97188383', 'PROD_STATE': 'A', 'ACCT_ID': '3684358', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '97188383', 'PROD_STATE': 'A', 'ACCT_ID': '3684358', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '10-JAN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-05 21:35:02,450:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:35:02,481:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=97188383&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 21:35:02,492:INFO:nemeltData
+2023-06-05 21:35:02,494:INFO:request_string
+2023-06-05 21:35:02,494:INFO:b'0001POSTADDITIONALDATA#97697188383#enjoy1gb#1#enjoy_nemelt_5gb'
+2023-06-05 21:35:26,613:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 21:35:33,798:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 21:36:16,639:INFO:checkUser
+2023-06-05 21:36:16,641:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 21:36:17,383:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 21:36:17,384:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 21:36:17,385:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:36:17,430:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98119543&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 21:36:17,432:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:36:17,462:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98119543&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 21:36:17,465:INFO:RESULT
+2023-06-05 21:36:17,465:INFO:
+2023-06-05 21:36:23,849:INFO:checkUser
+2023-06-05 21:36:23,850:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 21:36:24,597:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 21:36:24,598:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 21:36:24,599:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:36:24,619:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=97188383&text=Tany%20dugaart%205GB%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 21:36:24,622:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:36:24,645:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=97188383&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 21:36:24,649:INFO:RESULT
+2023-06-05 21:36:24,649:INFO:
+2023-06-05 21:44:25,175:INFO:98989838
+2023-06-05 21:44:25,175:INFO:help
+2023-06-05 21:44:25,404:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:44:25,423:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98989838&text=Ta%20sar%20duustal%205GB%20xurtel%20xurdny%20xyazgaargui%20ashiglax%20nemelt%20data%20bagc%20idevxjuulex%20bol%205GB%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Sariin%20suuri%20xuraamj%2010000T HTTP/1.1" 200 24
+2023-06-05 21:44:25,425:INFO:res1
+2023-06-05 21:44:25,425:INFO:b'0: Accepted for delivery'
+2023-06-05 21:44:25,426:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:44:25,453:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98989838&text=Ta%20sar%20duustal%2010GB%20xurtel%20xurdny%20xyazgaargui%20ashiglax%20nemelt%20data%20bagc%20idevxjuulex%20bol%2010GB%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Sariin%20suuri%20xuraamj%2018000T HTTP/1.1" 200 24
+2023-06-05 21:44:25,454:INFO:res2
+2023-06-05 21:44:25,454:INFO:b'0: Accepted for delivery'
+2023-06-05 21:44:25,455:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:44:25,472:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98989838&text=Tany%20idevxjuulsen%20nemelt%20data%20bagc%20duussan%20toxioldold%20tuxain%20sar%20duustal%201Mbps%20xurdaar%20interneted%20xolbogdono.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 21:44:25,473:INFO:res3
+2023-06-05 21:44:25,473:INFO:b'0: Accepted for delivery'
+2023-06-05 21:44:25,475:INFO:RESULT
+2023-06-05 21:44:25,475:INFO:
+2023-06-05 21:44:34,963:INFO:98989838
+2023-06-05 21:44:34,963:INFO:d
+2023-06-05 21:44:35,189:INFO:getDataUldegdel
+2023-06-05 21:44:35,190:INFO:request_string
+2023-06-05 21:44:35,190:INFO:b'0001CHECKDATA#97698989838'
+2023-06-05 21:44:35,222:INFO:Data ashiglaagui baina.
+2023-06-05 21:44:35,224:INFO:RESULT
+2023-06-05 21:44:35,224:INFO:Data ashiglaagui baina.
+2023-06-05 21:44:40,772:INFO:98989838
+2023-06-05 21:44:40,772:INFO:5gb
+2023-06-05 21:44:40,998:INFO:infoUser
+2023-06-05 21:44:40,999:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 21:44:44,592:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 499
+2023-06-05 21:44:44,593:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98989838', 'PROD_STATE': 'A', 'ACCT_ID': '302869', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '98989838', 'PROD_STATE': 'A', 'ACCT_ID': '302869', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '01-OCT-19', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-05 21:44:44,594:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:44:44,625:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98989838&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 21:44:44,660:INFO:nemeltData
+2023-06-05 21:44:44,662:INFO:request_string
+2023-06-05 21:44:44,662:INFO:b'0001POSTADDITIONALDATA#97698989838#enjoy1gb#1#enjoy_nemelt_5gb'
+2023-06-05 21:45:15,970:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 21:46:06,021:INFO:checkUser
+2023-06-05 21:46:06,022:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 21:46:06,776:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 21:46:06,777:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 21:46:06,779:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:46:06,804:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98989838&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 21:46:06,807:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:46:06,830:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98989838&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 21:46:06,834:INFO:RESULT
+2023-06-05 21:46:06,834:INFO:
+2023-06-05 21:51:07,837:INFO:98988688
+2023-06-05 21:51:07,837:INFO:d
+2023-06-05 21:51:08,064:INFO:getDataUldegdel
+2023-06-05 21:51:08,066:INFO:request_string
+2023-06-05 21:51:08,066:INFO:b'0001CHECKDATA#97698988688'
+2023-06-05 21:51:08,113:INFO:Data ashiglaagui baina.
+2023-06-05 21:51:08,115:INFO:RESULT
+2023-06-05 21:51:08,115:INFO:Data ashiglaagui baina.
+2023-06-05 21:58:51,005:INFO:98009848
+2023-06-05 21:58:51,005:INFO:5gb
+2023-06-05 21:58:51,229:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 21:58:51,256:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98009848&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 21:58:51,259:INFO:RESULT
+2023-06-05 21:58:51,259:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 22:15:18,910:INFO:98000518
+2023-06-05 22:15:18,910:INFO:D
+2023-06-05 22:15:19,137:INFO:getDataUldegdel
+2023-06-05 22:15:19,139:INFO:request_string
+2023-06-05 22:15:19,139:INFO:b'0001CHECKDATA#97698000518'
+2023-06-05 22:15:19,190:INFO:Data ashiglaagui baina.
+2023-06-05 22:15:19,192:INFO:RESULT
+2023-06-05 22:15:19,192:INFO:Data ashiglaagui baina.
+2023-06-05 22:44:05,748:INFO:98998908
+2023-06-05 22:44:05,748:INFO:D
+2023-06-05 22:44:05,979:INFO:getDataUldegdel
+2023-06-05 22:44:05,981:INFO:request_string
+2023-06-05 22:44:05,981:INFO:b'0001CHECKDATA#97698998908'
+2023-06-05 22:44:06,013:INFO:Data ashiglaagui baina.
+2023-06-05 22:44:06,015:INFO:RESULT
+2023-06-05 22:44:06,015:INFO:Data ashiglaagui baina.
+2023-06-05 23:30:45,598:INFO:97050544
+2023-06-05 23:30:45,599:INFO:d
+2023-06-05 23:30:45,825:INFO:getDataUldegdel
+2023-06-05 23:30:45,827:INFO:request_string
+2023-06-05 23:30:45,828:INFO:b'0001CHECKDATA#97697050544'
+2023-06-05 23:30:45,863:INFO:Data ashiglaagui baina.
+2023-06-05 23:30:45,865:INFO:RESULT
+2023-06-05 23:30:45,865:INFO:Data ashiglaagui baina.
+2023-06-05 23:31:06,267:INFO:97050544
+2023-06-05 23:31:06,267:INFO:5gb
+2023-06-05 23:31:06,493:INFO:infoUser
+2023-06-05 23:31:06,495:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 23:31:10,153:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-05 23:31:10,154:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '97050544', 'PROD_STATE': 'A', 'ACCT_ID': '3524473', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '97050544', 'PROD_STATE': 'A', 'ACCT_ID': '3524473', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '12-OCT-21', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-05 23:31:10,155:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 23:31:10,195:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=97050544&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-05 23:31:10,206:INFO:nemeltData
+2023-06-05 23:31:10,208:INFO:request_string
+2023-06-05 23:31:10,208:INFO:b'0001POSTADDITIONALDATA#97697050544#enjoy1gb#1#enjoy_nemelt_5gb'
+2023-06-05 23:31:41,506:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-05 23:32:31,532:INFO:checkUser
+2023-06-05 23:32:31,533:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-05 23:32:32,276:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-05 23:32:32,277:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-05 23:32:32,279:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 23:32:32,314:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=97050544&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 23:32:32,317:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 23:32:32,345:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=97050544&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-05 23:32:32,348:INFO:RESULT
+2023-06-05 23:32:32,348:INFO:
+2023-06-05 23:33:44,308:INFO:97050544
+2023-06-05 23:33:44,308:INFO:d
+2023-06-05 23:33:44,533:INFO:getDataUldegdel
+2023-06-05 23:33:44,534:INFO:request_string
+2023-06-05 23:33:44,534:INFO:b'0001CHECKDATA#97697050544'
+2023-06-05 23:33:44,567:INFO:Data ashiglaagui baina.
+2023-06-05 23:33:44,569:INFO:RESULT
+2023-06-05 23:33:44,569:INFO:Data ashiglaagui baina.
+2023-06-05 23:41:49,893:INFO:93200605
+2023-06-05 23:41:49,893:INFO:D
+2023-06-05 23:41:50,118:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 23:41:50,146:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93200605&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 23:41:50,149:INFO:RESULT
+2023-06-05 23:41:50,149:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-05 23:42:04,409:INFO:93200605
+2023-06-05 23:42:04,409:INFO:5GB
+2023-06-05 23:42:04,631:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-05 23:42:04,654:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=93200605&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-05 23:42:04,657:INFO:RESULT
+2023-06-05 23:42:04,657:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-06 00:01:25,752:INFO:98000973
+2023-06-06 00:01:25,753:INFO:5gb
+2023-06-06 00:01:25,982:INFO:infoUser
+2023-06-06 00:01:25,983:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-06 00:01:29,581:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 513
+2023-06-06 00:01:29,582:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98000973', 'PROD_STATE': 'A', 'ACCT_ID': '3479342', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4323', 'PRICE_PLAN_CODE': 'enjoy2gb', 'PRICE_PLAN_NAME': 'Post Enjoy Data 5GB_20000C 20000D_with PCRF', 'EFF_DATE': '01-DEC-21', 'EXP_DATE': None, 'VALUE_MARK': '20000 D'}, {'ACC_NBR': '98000973', 'PROD_STATE': 'A', 'ACCT_ID': '3479342', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4328', 'PRICE_PLAN_CODE': '4328', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS B', 'EFF_DATE': '01-DEC-21', 'EXP_DATE': None, 'VALUE_MARK': '20000 D'}]}
+2023-06-06 00:01:29,584:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 00:01:29,607:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98000973&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-06 00:01:29,619:INFO:nemeltData
+2023-06-06 00:01:29,620:INFO:request_string
+2023-06-06 00:01:29,620:INFO:b'0001POSTADDITIONALDATA#97698000973#enjoy2gb#1#enjoy_nemelt_5gb'
+2023-06-06 00:02:00,901:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-06 00:02:50,920:INFO:checkUser
+2023-06-06 00:02:50,922:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-06 00:02:51,665:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-06 00:02:51,666:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-06 00:02:51,668:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 00:02:51,709:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98000973&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-06 00:02:51,712:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 00:02:51,737:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98000973&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-06 00:02:51,742:INFO:RESULT
+2023-06-06 00:02:51,742:INFO:
+2023-06-06 00:09:46,676:INFO:97030305
+2023-06-06 00:09:46,676:INFO:10gb
+2023-06-06 00:09:46,904:INFO:infoUser
+2023-06-06 00:09:46,906:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-06 00:09:50,519:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-06 00:09:50,520:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '97030305', 'PROD_STATE': 'A', 'ACCT_ID': '3593762', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '26-APR-22', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '97030305', 'PROD_STATE': 'A', 'ACCT_ID': '3593762', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-06 00:09:50,521:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 00:09:50,543:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=97030305&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-06 00:09:50,556:INFO:nemeltData
+2023-06-06 00:09:50,558:INFO:request_string
+2023-06-06 00:09:50,558:INFO:b'0001POSTADDITIONALDATA#97697030305#enjoy1gb#1#ENJNEM10GB'
+2023-06-06 00:10:21,842:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-06 00:11:11,890:INFO:checkUser
+2023-06-06 00:11:11,891:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-06 00:11:12,646:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-06 00:11:12,646:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-06 00:11:12,648:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 00:11:12,680:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=97030305&text=Tany%20dugaart%2010gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2018,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-06 00:11:12,682:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 00:11:12,780:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=97030305&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-06 00:11:12,784:INFO:RESULT
+2023-06-06 00:11:12,784:INFO:
+2023-06-06 00:22:02,335:INFO:98000973
+2023-06-06 00:22:02,336:INFO:D
+2023-06-06 00:22:02,565:INFO:getDataUldegdel
+2023-06-06 00:22:02,567:INFO:request_string
+2023-06-06 00:22:02,567:INFO:b'0001CHECKDATA#97698000973'
+2023-06-06 00:22:02,606:INFO:-4320020|2023-07-01 00:00:00
+2023-06-06 00:22:02,606:INFO:uldegdel
+2023-06-06 00:22:02,606:INFO:['-4320020', '2023-07-01 00:00:00']
+2023-06-06 00:22:02,608:INFO:RESULT
+2023-06-06 00:22:02,608:INFO:Ta 4.12MB nemelt data bagc ashiglasan baina. Tany nemelt data bagcyn xugacaa 2023.06.30 duusna. Gmobile
+2023-06-06 00:30:39,064:INFO:98885577
+2023-06-06 00:30:39,065:INFO:help
+2023-06-06 00:30:39,296:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 00:30:39,324:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98885577&text=Ta%20sar%20duustal%205GB%20xurtel%20xurdny%20xyazgaargui%20ashiglax%20nemelt%20data%20bagc%20idevxjuulex%20bol%205GB%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Sariin%20suuri%20xuraamj%2010000T HTTP/1.1" 200 24
+2023-06-06 00:30:39,325:INFO:res1
+2023-06-06 00:30:39,325:INFO:b'0: Accepted for delivery'
+2023-06-06 00:30:39,327:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 00:30:39,347:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98885577&text=Ta%20sar%20duustal%2010GB%20xurtel%20xurdny%20xyazgaargui%20ashiglax%20nemelt%20data%20bagc%20idevxjuulex%20bol%2010GB%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Sariin%20suuri%20xuraamj%2018000T HTTP/1.1" 200 24
+2023-06-06 00:30:39,348:INFO:res2
+2023-06-06 00:30:39,348:INFO:b'0: Accepted for delivery'
+2023-06-06 00:30:39,350:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 00:30:39,370:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98885577&text=Tany%20idevxjuulsen%20nemelt%20data%20bagc%20duussan%20toxioldold%20tuxain%20sar%20duustal%201Mbps%20xurdaar%20interneted%20xolbogdono.%20Gmobile HTTP/1.1" 200 24
+2023-06-06 00:30:39,371:INFO:res3
+2023-06-06 00:30:39,371:INFO:b'0: Accepted for delivery'
+2023-06-06 00:30:39,373:INFO:RESULT
+2023-06-06 00:30:39,373:INFO:
+2023-06-06 00:30:53,143:INFO:98885577
+2023-06-06 00:30:53,144:INFO:data
+2023-06-06 00:30:53,370:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 00:30:53,395:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98885577&text=Ta%20nemelt%20data%20bagcyn%20talaar%20delgerengui%20medeelel%20avax%20bol%20'help'%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-06 00:30:53,397:INFO:RESULT
+2023-06-06 00:30:53,398:INFO:Ta nemelt data bagcyn talaar delgerengui medeelel avax bol 'help' utgyg 510 dugaart ilgeene uu. Gmobile
+2023-06-06 00:30:58,120:INFO:98885577
+2023-06-06 00:30:58,121:INFO:d
+2023-06-06 00:30:58,345:INFO:getDataUldegdel
+2023-06-06 00:30:58,346:INFO:request_string
+2023-06-06 00:30:58,346:INFO:b'0001CHECKDATA#97698885577'
+2023-06-06 00:30:58,375:INFO:Data ashiglaagui baina.
+2023-06-06 00:30:58,377:INFO:RESULT
+2023-06-06 00:30:58,377:INFO:Data ashiglaagui baina.
+2023-06-06 00:31:20,928:INFO:98885577
+2023-06-06 00:31:20,928:INFO:5gb
+2023-06-06 00:31:21,154:INFO:infoUser
+2023-06-06 00:31:21,156:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-06 00:31:24,780:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-06 00:31:24,781:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98885577', 'PROD_STATE': 'A', 'ACCT_ID': '3454173', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '98885577', 'PROD_STATE': 'A', 'ACCT_ID': '3454173', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '14-APR-21', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-06 00:31:24,783:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 00:31:24,830:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98885577&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-06 00:31:24,841:INFO:nemeltData
+2023-06-06 00:31:24,843:INFO:request_string
+2023-06-06 00:31:24,843:INFO:b'0001POSTADDITIONALDATA#97698885577#enjoy1gb#1#enjoy_nemelt_5gb'
+2023-06-06 00:31:56,141:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-06 00:32:46,192:INFO:checkUser
+2023-06-06 00:32:46,193:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-06 00:32:46,945:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-06 00:32:46,945:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-06 00:32:46,947:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 00:32:46,979:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98885577&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-06 00:32:46,982:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 00:32:47,005:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98885577&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-06 00:32:47,008:INFO:RESULT
+2023-06-06 00:32:47,008:INFO:
+2023-06-06 00:46:41,860:INFO:98195532
+2023-06-06 00:46:41,860:INFO:5gb
+2023-06-06 00:46:42,084:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 00:46:42,105:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98195532&text=Ta%20nemelt%20data%20bagc%20avax%20xuselt%20ilgeesen%20baina.%20Tur%20xuleene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-06 00:46:42,108:INFO:RESULT
+2023-06-06 00:46:42,108:INFO:Ta nemelt data bagc avax xuselt ilgeesen baina. Tur xuleene uu. Gmobile
+2023-06-06 06:48:18,628:INFO:98884525
+2023-06-06 06:48:18,628:INFO:5gb
+2023-06-06 06:48:18,856:INFO:infoUser
+2023-06-06 06:48:18,857:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-06 06:48:22,482:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-06 06:48:22,483:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98884525', 'PROD_STATE': 'A', 'ACCT_ID': '3481826', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '98884525', 'PROD_STATE': 'A', 'ACCT_ID': '3481826', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '01-JUL-21', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-06 06:48:22,484:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 06:48:22,524:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98884525&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-06 06:48:22,536:INFO:nemeltData
+2023-06-06 06:48:22,537:INFO:request_string
+2023-06-06 06:48:22,537:INFO:b'0001POSTADDITIONALDATA#97698884525#enjoy1gb#1#enjoy_nemelt_5gb'
+2023-06-06 06:48:53,810:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-06 06:49:43,852:INFO:checkUser
+2023-06-06 06:49:43,853:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-06 06:49:44,602:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-06 06:49:44,603:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-06 06:49:44,604:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 06:49:44,629:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98884525&text=Tany%20dugaart%205gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-06 06:49:44,632:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 06:49:44,653:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98884525&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-06 06:49:44,656:INFO:RESULT
+2023-06-06 06:49:44,657:INFO:
+2023-06-06 07:28:22,086:INFO:98088885
+2023-06-06 07:28:22,087:INFO:D
+2023-06-06 07:28:22,314:INFO:getDataUldegdel
+2023-06-06 07:28:22,316:INFO:request_string
+2023-06-06 07:28:22,316:INFO:b'0001CHECKDATA#97698088885'
+2023-06-06 07:28:22,340:INFO:Data ashiglaagui baina.
+2023-06-06 07:28:22,341:INFO:RESULT
+2023-06-06 07:28:22,341:INFO:Data ashiglaagui baina.
+2023-06-06 07:29:51,788:INFO:98088885
+2023-06-06 07:29:51,789:INFO:5g
+2023-06-06 07:29:52,016:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 07:29:52,040:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98088885&text=Ta%20nemelt%20data%20bagcyn%20talaar%20delgerengui%20medeelel%20avax%20bol%20'help'%20utgyg%20510%20dugaart%20ilgeene%20uu.%20Gmobile HTTP/1.1" 200 24
+2023-06-06 07:29:52,043:INFO:RESULT
+2023-06-06 07:29:52,043:INFO:Ta nemelt data bagcyn talaar delgerengui medeelel avax bol 'help' utgyg 510 dugaart ilgeene uu. Gmobile
+2023-06-06 07:33:43,093:INFO:98088885
+2023-06-06 07:33:43,093:INFO:5Gb
+2023-06-06 07:33:43,328:INFO:infoUser
+2023-06-06 07:33:43,329:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-06 07:33:46,934:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 501
+2023-06-06 07:33:46,935:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98088885', 'PROD_STATE': 'A', 'ACCT_ID': '3586834', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4321', 'PRICE_PLAN_CODE': 'enjoy1gb', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Data 1GB with PCRF', 'EFF_DATE': '01-JUN-23', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}, {'ACC_NBR': '98088885', 'PROD_STATE': 'A', 'ACCT_ID': '3586834', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '12-OCT-22', 'EXP_DATE': None, 'VALUE_MARK': '10000 B'}]}
+2023-06-06 07:33:46,937:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 07:33:46,978:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98088885&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-06 07:33:46,989:INFO:nemeltData
+2023-06-06 07:33:46,991:INFO:request_string
+2023-06-06 07:33:46,991:INFO:b'0001POSTADDITIONALDATA#97698088885#enjoy1gb#1#enjoy_nemelt_5gb'
+2023-06-06 07:34:18,191:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-06 07:35:08,240:INFO:checkUser
+2023-06-06 07:35:08,242:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-06 07:35:08,985:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-06 07:35:08,985:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-06 07:35:08,987:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 07:35:09,020:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98088885&text=Tany%20dugaart%205Gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2010,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-06 07:35:09,023:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 07:35:09,050:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98088885&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-06 07:35:09,053:INFO:RESULT
+2023-06-06 07:35:09,053:INFO:
+2023-06-06 07:46:17,614:INFO:98198001
+2023-06-06 07:46:17,615:INFO:10gb
+2023-06-06 07:46:17,843:INFO:infoUser
+2023-06-06 07:46:17,845:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-06 07:46:21,474:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/info HTTP/1.1" 200 511
+2023-06-06 07:46:21,475:INFO:{'status': 'success', 'sms': [{'ACC_NBR': '98198001', 'PROD_STATE': 'A', 'ACCT_ID': '3132087', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4323', 'PRICE_PLAN_CODE': 'enjoy2gb', 'PRICE_PLAN_NAME': 'Post Enjoy Data 5GB_20000C 20000D_with PCRF', 'EFF_DATE': '01-MAR-23', 'EXP_DATE': None, 'VALUE_MARK': '20000 C'}, {'ACC_NBR': '98198001', 'PROD_STATE': 'A', 'ACCT_ID': '3132087', 'POSTPAID': 'Y', 'PRICE_PLAN_ID': '4120', 'PRICE_PLAN_CODE': '4120', 'PRICE_PLAN_NAME': 'Postpaid Enjoy Voice SMS', 'EFF_DATE': '02-SEP-19', 'EXP_DATE': None, 'VALUE_MARK': '20000 C'}]}
+2023-06-06 07:46:21,476:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 07:46:21,501:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98198001&text=Tanii%20huseltiig%20huleej%20avlaa.%20Ta%20tur%20huleene%20uu.%20Gmobile%20Lavlax:3636 HTTP/1.1" 200 24
+2023-06-06 07:46:21,512:INFO:nemeltData
+2023-06-06 07:46:21,513:INFO:request_string
+2023-06-06 07:46:21,513:INFO:b'0001POSTADDITIONALDATA#97698198001#enjoy2gb#1#ENJNEM10GB'
+2023-06-06 07:46:52,827:INFO:b'SUCCESS - Nemelt data avah uildel amjilttai bolloo.'
+2023-06-06 07:47:42,877:INFO:checkUser
+2023-06-06 07:47:42,879:DEBUG:Starting new HTTP connection (1): 192.168.18.105:8081
+2023-06-06 07:47:43,634:DEBUG:http://192.168.18.105:8081 "POST /index.php/add/data/check HTTP/1.1" 200 35
+2023-06-06 07:47:43,634:INFO:{'status': 'success', 'sms': 'active'}
+2023-06-06 07:47:43,636:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 07:47:43,684:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98198001&text=Tany%20dugaart%2010gb%20nemelt%20data%20bagc%20amjilttai%20idevxejlee.%20Saryn%20suuri%20xuraamj%2018,000MNT.%20Nemelt%20data%20bagcyn%20xugacaa%202023.06.30-ny%20udur%20duusna.%20Gmobile HTTP/1.1" 200 24
+2023-06-06 07:47:43,686:DEBUG:Starting new HTTP connection (1): 192.88.80.195:80
+2023-06-06 07:47:43,709:DEBUG:http://192.88.80.195:80 "GET /cgi-bin/sendsms?username=enjoydata&password=data_add&from=510&to=98198001&text=Ta%20data%20bagcaa%20ashiglaxdaa%20gar%20utasnyxaa%20ARIPLANE%20MODE-iig%20asaaj,%20untraana%20uu.%20Ta%20nemelt%20data%20bagcyn%20xeregleegee%20shalgax%20bol%20'D'%20utgyg%20510%20dugaart%20ilgeene%20uu. HTTP/1.1" 200 24
+2023-06-06 07:47:43,712:INFO:RESULT
+2023-06-06 07:47:43,712:INFO:
